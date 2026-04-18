@@ -1,0 +1,11 @@
+companies:
+  - name: "Anthropic"
+    careers_url: "https://boards.greenhouse.io/anthropic"
+  - name: "Stripe"
+    careers_url: "https://stripe.com/jobs/search"
+  - name: "Vercel"
+    careers_url: "https://vercel.com/careers"
+  - name: "Knightec Group"
+    careers_url: "https://career.knightecgroup.com/jobs?split_view=true&geobound_coordinates%5Btop_left_lat%5D=57.71436365750945&geobound_coordinates%5Btop_left_lon%5D=11.946349740028381&geobound_coordinates%5Bbottom_right_lat%5D=57.712168730910314&geobound_coordinates%5Bbottom_right_lon%5D=11.951285004615784&query="
+  - name: "Friday"
+    careers_url: "https://friday.se/lediga-jobb/?ort=G%C3%B6teborg"
