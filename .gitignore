@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+output/
+.crawl4ai/
+.cache/
+cv.md
+config.yaml
