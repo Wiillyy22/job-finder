@@ -21,7 +21,7 @@ Prefer concise reasons. A plausible stretch can still be marked as a match."""
 PROFILE_SYSTEM = """You extract a compact job-matching profile from a candidate CV.
 Capture only the facts that are likely to be reused across many job evaluations."""
 
-BATCH_SIZE = 10
+BATCH_SIZE = 25
 DESCRIPTION_PREVIEW_CHARS = 600
 PROFILE_CACHE_VERSION = "candidate-profile-v1"
 EVALUATION_CACHE_VERSION = "job-evaluation-v2"

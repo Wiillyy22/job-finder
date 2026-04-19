@@ -1,19 +1,8 @@
 import os
 
 from crewai import Agent, Crew, Process, Task
-from pydantic import BaseModel
-
-from models import CompanyConfig, EvaluationResult, Job
+from models import CompanyConfig
 from tools import EvaluateJobsTool, ScrapeJobsTool
-
-
-# Wrapper models for structured task output
-class JobList(BaseModel):
-    jobs: list[Job]
-
-
-class EvaluationResultList(BaseModel):
-    results: list[EvaluationResult]
 
 
 def build_crew(
@@ -21,7 +10,7 @@ def build_crew(
 ) -> Crew:
     """Build a CrewAI crew for job finding and evaluation."""
 
-    # CrewAI uses litellm under the hood — prefix with provider name
+    # CrewAI uses native providers — prefix with provider name
     provider = os.getenv("LLM_PROVIDER", "anthropic")
     model = os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6")
     if provider == "anthropic":
@@ -41,33 +30,37 @@ def build_crew(
         role="Job Listing Scraper",
         goal=(
             "Scrape company career pages and return all job listings "
-            "as structured data"
+            "as structured data by calling the Scrape Jobs tool"
         ),
         backstory=(
-            "You are an expert job listing collector. You use the "
-            "'Scrape Jobs' tool to crawl each company's career page "
-            "and extract structured job listings. You call the tool "
-            "once per company and combine all results."
+            "You are an expert job listing collector. You have NO "
+            "knowledge of what jobs exist at any company — the ONLY way "
+            "to find jobs is by calling the 'Scrape Jobs' tool with the "
+            "company name and URL. You must call it once per company. "
+            "Never fabricate or guess job listings."
         ),
         tools=[scrape_tool],
         llm=llm,
+        cache=False,
         verbose=True,
     )
 
     evaluator_agent = Agent(
         role="Career Match Evaluator",
         goal=(
-            "Evaluate each job listing against the candidate's CV and "
-            "determine which jobs are a good match"
+            "Evaluate each job listing against the candidate's CV by "
+            "calling the Evaluate Jobs tool"
         ),
         backstory=(
             "You are an experienced career advisor and technical recruiter. "
+            "You MUST use the 'Evaluate Jobs' tool to perform evaluations. "
             "You understand how to match candidate skills, experience, and "
             "goals to job requirements. You provide honest, encouraging "
             "assessments with clear reasoning."
         ),
         tools=[evaluate_tool],
         llm=llm,
+        cache=False,
         verbose=True,
     )
 
@@ -77,15 +70,20 @@ def build_crew(
     )
 
     # --- Tasks ---
+    # NOTE: output_pydantic is deliberately omitted — with Anthropic's
+    # native provider, it triggers structured output mode which bypasses
+    # tool calling entirely. We parse the output in main_crew.py instead.
     scraper_task = Task(
         description=(
-            f"Scrape job listings from the following company career pages.\n\n"
+            f"You MUST call the 'Scrape Jobs' tool for each company below. "
+            f"Do NOT skip any company. Do NOT fabricate results.\n\n"
             f"Companies:\n{company_list}\n\n"
-            f"For EACH company listed above, call the 'Scrape Jobs' tool "
-            f"with the company_name and url. The tool handles crawling and "
-            f"extraction internally and returns a JSON array of jobs.\n\n"
-            f"Combine all the jobs from every company into one list and "
-            f"return it."
+            f"Steps:\n"
+            f"1. Call 'Scrape Jobs' with company_name and url for the "
+            f"first company\n"
+            f"2. Repeat for each remaining company\n"
+            f"3. Combine all returned job arrays into one list\n"
+            f"4. Return the combined list as a JSON object with a 'jobs' key"
         ),
         expected_output=(
             "A JSON object with a 'jobs' key containing an array of all "
@@ -93,7 +91,6 @@ def build_crew(
             "url, description, and company fields."
         ),
         agent=scraper_agent,
-        output_pydantic=JobList,
     )
 
     evaluator_task = Task(
@@ -105,7 +102,8 @@ def build_crew(
             f"## Candidate CV:\n{cv_text}\n\n"
             f"Use the 'Evaluate Jobs' tool, passing the jobs from the "
             f"previous task as a JSON string and the CV text above. "
-            f"Return the complete list of evaluation results."
+            f"Return the complete list of evaluation results as a JSON "
+            f"object with a 'results' key."
         ),
         expected_output=(
             "A JSON object with a 'results' key containing an array of "
@@ -114,7 +112,6 @@ def build_crew(
         ),
         agent=evaluator_agent,
         context=[scraper_task],
-        output_pydantic=EvaluationResultList,
     )
 
     # --- Crew ---

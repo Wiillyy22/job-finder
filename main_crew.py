@@ -1,4 +1,6 @@
+import json
 import logging
+import re
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -45,37 +47,36 @@ def run(
     logger.info("=== Running Crew ===")
     result = crew.kickoff()
 
-    # Extract results
+    # Extract results — parse JSON from raw crew output since we
+    # don't use output_pydantic (it conflicts with Anthropic tool calling)
     logger.info("=== Processing Results ===")
-    evaluator_task = crew.tasks[-1]
+    raw_output = str(result)
 
-    if evaluator_task.output and evaluator_task.output.pydantic:
-        eval_results = evaluator_task.output.pydantic.results
-    else:
-        # Fallback: try parsing from raw output
-        logger.warning(
-            "No pydantic output, attempting to parse raw output"
-        )
-        import json
+    # Try to extract JSON from the output (agent may wrap it in text)
+    json_match = re.search(r'\{.*"results".*\}', raw_output, re.DOTALL)
+    if json_match:
+        raw_output = json_match.group()
 
-        raw_output = str(result)
-        try:
-            data = json.loads(raw_output)
-            if isinstance(data, dict) and "results" in data:
-                eval_results = [
-                    EvaluationResult.model_validate(r)
-                    for r in data["results"]
-                ]
-            elif isinstance(data, list):
-                eval_results = [
-                    EvaluationResult.model_validate(r) for r in data
-                ]
-            else:
-                logger.error("Could not parse crew output")
-                return
-        except json.JSONDecodeError:
-            logger.error(f"Failed to parse crew output: {raw_output[:200]}")
+    try:
+        data = json.loads(raw_output)
+        if isinstance(data, dict) and "results" in data:
+            eval_results = [
+                EvaluationResult.model_validate(r)
+                for r in data["results"]
+            ]
+        elif isinstance(data, list):
+            eval_results = [
+                EvaluationResult.model_validate(r) for r in data
+            ]
+        else:
+            logger.error(
+                f"Unexpected output structure: {raw_output[:200]}"
+            )
             return
+    except (json.JSONDecodeError, Exception) as e:
+        logger.error(f"Failed to parse crew output: {e}")
+        logger.error(f"Raw output: {raw_output[:500]}")
+        return
 
     # Write output files
     logger.info("=== Writing Results ===")

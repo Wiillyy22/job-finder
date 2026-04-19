@@ -1,4 +1,6 @@
 import logging
+import os
+import re
 from urllib.parse import urljoin
 
 from pydantic import BaseModel
@@ -31,6 +33,21 @@ class JobDescription(BaseModel):
     description: str = ""
 
 
+def _clean_markdown(text: str) -> str:
+    """Strip noise from crawled markdown before sending to the LLM."""
+    # Remove markdown images: ![alt](url)
+    text = re.sub(r"!\[[^\]]*\]\([^)]*\)", "", text)
+    # Remove standalone bare image URLs (common in raw crawl output)
+    text = re.sub(r"^https?://\S+\.(?:png|jpg|jpeg|gif|svg|webp|ico)\S*$", "", text, flags=re.MULTILINE | re.IGNORECASE)
+    # Remove HTML comments
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL)
+    # Collapse runs of 3+ blank lines into 2
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    # Strip lines that are only whitespace
+    lines = [line for line in text.split("\n") if line.strip() or line == ""]
+    return "\n".join(lines)
+
+
 def extract_jobs_from_markdown(
     markdown: str, company_name: str, base_url: str
 ) -> list[Job]:
@@ -38,6 +55,9 @@ def extract_jobs_from_markdown(
     if not markdown.strip():
         logger.warning(f"No markdown content for {company_name}")
         return []
+
+    # Strip noise (images, blank lines, HTML comments) before LLM
+    markdown = _clean_markdown(markdown)
 
     # Truncate very long pages to stay within token limits
     if len(markdown) > 50000:
@@ -106,13 +126,20 @@ Return ALL jobs you find on the page."""
 
 async def enrich_jobs_with_details(
     jobs: list[Job],
+    model: str | None = None,
 ) -> list[Job]:
-    """Crawl individual job pages to get full descriptions."""
+    """Crawl individual job pages and summarize with a cheap model."""
+    enrich_model = model or os.getenv(
+        "ENRICHMENT_MODEL", "claude-haiku-4-5-20251001"
+    )
     urls_to_crawl = [job.url for job in jobs if job.url]
     if not urls_to_crawl:
         return jobs
 
-    logger.info(f"Enriching {len(urls_to_crawl)} jobs with full descriptions")
+    logger.info(
+        f"Enriching {len(urls_to_crawl)} jobs with full descriptions "
+        f"(model: {enrich_model})"
+    )
     details = await crawl_job_details_batch(urls_to_crawl)
 
     for job in jobs:
@@ -148,6 +175,7 @@ Page content:
                     prompt=prompt,
                     schema=JobDescription,
                     system="Extract the single job's details from this page.",
+                    model=enrich_model,
                 )
                 save_json(
                     "job_details",

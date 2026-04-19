@@ -7,7 +7,7 @@ from crewai.tools import BaseTool
 from pydantic import BaseModel, Field
 
 from crawler import crawl_career_page
-from extractor import extract_jobs_from_markdown
+from extractor import enrich_jobs_with_details, extract_jobs_from_markdown
 from evaluator import evaluate_jobs
 from models import Job
 
@@ -51,6 +51,7 @@ class ScrapeJobsTool(BaseTool):
         logger.info(
             f"Tool: Extracted {len(jobs)} jobs from {company_name}"
         )
+        jobs = asyncio.run(enrich_jobs_with_details(jobs))
         return json.dumps(
             [job.model_dump() for job in jobs], ensure_ascii=False
         )
@@ -60,15 +61,17 @@ class EvaluateJobsTool(BaseTool):
     name: str = "Evaluate Jobs"
     description: str = (
         "Evaluates a list of job listings against the candidate's CV. "
-        "Returns a JSON array of evaluation results with match/no-match "
-        "decisions and reasoning."
+        "Returns a JSON object with a 'results' key containing an array "
+        "of evaluation results with match/no-match decisions and reasoning."
     )
     args_schema: Type[BaseModel] = EvaluateInput
+    result_as_answer: bool = True
 
     def _run(self, jobs_json: str, cv_text: str) -> str:
         logger.info("Tool: Evaluating jobs against CV")
         jobs = [Job.model_validate(j) for j in json.loads(jobs_json)]
         results = evaluate_jobs(jobs, cv_text)
         return json.dumps(
-            [r.model_dump() for r in results], ensure_ascii=False
+            {"results": [r.model_dump() for r in results]},
+            ensure_ascii=False,
         )

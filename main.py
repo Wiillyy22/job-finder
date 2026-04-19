@@ -28,7 +28,7 @@ async def run(
     config_path: Path = DEFAULT_CONFIG,
     cv_path: Path = DEFAULT_CV,
     output_dir: Path = OUTPUT_DIR,
-    enrich: bool = False,
+    enrich: bool = True,
 ):
     # Load config
     logger.info(f"Loading config from {config_path}")
@@ -114,9 +114,9 @@ def main():
         help="Output directory",
     )
     parser.add_argument(
-        "--enrich",
+        "--no-enrich",
         action="store_true",
-        help="Crawl individual job pages for full descriptions (slower, more API calls)",
+        help="Skip crawling individual job pages for descriptions (faster, less accurate)",
     )
     args = parser.parse_args()
 
@@ -125,7 +125,7 @@ def main():
             config_path=args.config,
             cv_path=args.cv,
             output_dir=args.output,
-            enrich=args.enrich,
+            enrich=not args.no_enrich,
         )
     )
 

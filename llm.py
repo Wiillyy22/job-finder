@@ -26,11 +26,12 @@ def extract_structured(
     schema: Type[T],
     system: str = "",
     provider: str | None = None,
+    model: str | None = None,
 ) -> T:
     provider = provider or PROVIDER
 
     if provider == "anthropic":
-        return _anthropic_structured(prompt, schema, system)
+        return _anthropic_structured(prompt, schema, system, model=model)
     elif provider == "openai":
         return _openai_structured(prompt, schema, system)
     else:
@@ -42,11 +43,12 @@ def extract_structured_list(
     item_schema: Type[T],
     system: str = "",
     provider: str | None = None,
+    model: str | None = None,
 ) -> list[T]:
     provider = provider or PROVIDER
 
     if provider == "anthropic":
-        return _anthropic_structured_list(prompt, item_schema, system)
+        return _anthropic_structured_list(prompt, item_schema, system, model=model)
     elif provider == "openai":
         return _openai_structured_list(prompt, item_schema, system)
     else:
@@ -56,7 +58,9 @@ def extract_structured_list(
 # --- Anthropic ---
 
 
-def _anthropic_structured(prompt: str, schema: Type[T], system: str) -> T:
+def _anthropic_structured(
+    prompt: str, schema: Type[T], system: str, model: str | None = None
+) -> T:
     client = _get_anthropic_client()
     tool_name = schema.__name__.lower()
     tool_schema = schema.model_json_schema()
@@ -70,7 +74,7 @@ def _anthropic_structured(prompt: str, schema: Type[T], system: str) -> T:
         kwargs["system"] = system
 
     response = client.messages.create(
-        model=os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6"),
+        model=model or os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6"),
         max_tokens=4096,
         tools=[
             {
@@ -92,7 +96,7 @@ def _anthropic_structured(prompt: str, schema: Type[T], system: str) -> T:
 
 
 def _anthropic_structured_list(
-    prompt: str, item_schema: Type[T], system: str
+    prompt: str, item_schema: Type[T], system: str, model: str | None = None
 ) -> list[T]:
     client = _get_anthropic_client()
     # Create a wrapper schema for the list
@@ -115,7 +119,7 @@ def _anthropic_structured_list(
         kwargs["system"] = system
 
     response = client.messages.create(
-        model=os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6"),
+        model=model or os.getenv("ANTHROPIC_MODEL", "claude-sonnet-4-6"),
         max_tokens=8192,
         tools=[
             {
