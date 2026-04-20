@@ -107,8 +107,8 @@ def build_crew(
         ),
         expected_output=(
             "A JSON object with a 'results' key containing an array of "
-            "evaluation results, each with job_title, company, match "
-            "(boolean), reason, and url fields."
+            "evaluation results, each with job_id, job_title, company, "
+            "match (boolean), reason, and url fields."
         ),
         agent=evaluator_agent,
         context=[scraper_task],

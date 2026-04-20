@@ -1,5 +1,7 @@
 import asyncio
+import json
 import logging
+from datetime import datetime, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -10,7 +12,7 @@ load_dotenv()
 from crawler import crawl_many_career_pages
 from evaluator import evaluate_jobs, write_results
 from extractor import enrich_jobs_with_details, extract_jobs_from_markdown
-from models import Config
+from models import Config, RunJob, RunSnapshot, make_job_id
 
 logging.basicConfig(
     level=logging.INFO,
@@ -22,6 +24,7 @@ PROJECT_DIR = Path(__file__).parent
 DEFAULT_CONFIG = PROJECT_DIR / "config.yaml"
 DEFAULT_CV = PROJECT_DIR / "cv.md"
 OUTPUT_DIR = PROJECT_DIR / "output"
+DATA_DIR = PROJECT_DIR / "data" / "runs"
 
 
 async def run(
@@ -86,6 +89,50 @@ async def run(
 
     matching = sum(1 for r in results if r.match)
     non_matching = len(results) - matching
+
+    # Step 5: Save run snapshot for the frontend
+    logger.info("=== Step 5: Saving run snapshot ===")
+    now = datetime.now(timezone.utc)
+    run_id = now.strftime("%Y-%m-%dT%H-%M-%S")
+    jobs_by_id = {}
+    duplicate_job_ids = set()
+    for job in all_jobs:
+        job_id = make_job_id(job)
+        if job_id in jobs_by_id:
+            duplicate_job_ids.add(job_id)
+        jobs_by_id[job_id] = job
+
+    if duplicate_job_ids:
+        duplicate_list = ", ".join(sorted(duplicate_job_ids))
+        raise RuntimeError(
+            "Duplicate job IDs detected while building the run snapshot: "
+            f"{duplicate_list}"
+        )
+
+    run_jobs = []
+    for r in results:
+        job = jobs_by_id.get(r.job_id)
+        if job:
+            run_jobs.append(
+                RunJob(
+                    job_id=r.job_id,
+                    job=job,
+                    match=r.match,
+                    reason=r.reason,
+                )
+            )
+    snapshot = RunSnapshot(
+        run_id=run_id,
+        timestamp=now.isoformat(),
+        companies_searched=[c.name for c in config.companies],
+        jobs=run_jobs,
+    )
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    snapshot_path = DATA_DIR / f"{run_id}.json"
+    snapshot_path.write_text(
+        json.dumps(snapshot.model_dump(), ensure_ascii=False, indent=2)
+    )
+    logger.info(f"Run snapshot saved: {snapshot_path}")
 
     logger.info("=== Done! ===")
     logger.info(f"Matching jobs ({matching}): {match_path}")

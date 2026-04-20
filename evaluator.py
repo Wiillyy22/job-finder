@@ -1,11 +1,17 @@
 import logging
-from hashlib import sha256
 import json
 from pathlib import Path
 
 from cache_utils import build_cache_key, load_json, save_json
 from llm import extract_structured, extract_structured_list
-from models import CandidateProfile, EvaluationResult, Job, JobMatchDecision
+from models import (
+    CandidateProfile,
+    EvaluationResult,
+    Job,
+    JobMatchDecision,
+    compact_text,
+    make_job_id,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -172,10 +178,11 @@ def evaluate_jobs_with_profile(
         )
 
     for job in jobs:
-        job_id = _make_job_id(job)
+        job_id = make_job_id(job)
         decision = cached_results_by_id[job_id]
         all_results.append(
             EvaluationResult(
+                job_id=job_id,
                 job_title=job.title,
                 company=job.company,
                 match=decision.match,
@@ -215,9 +222,9 @@ Rules:
 
 
 def _build_job_payload(job: Job) -> dict[str, str]:
-    description = _compact_text(job.description, DESCRIPTION_PREVIEW_CHARS)
+    description = compact_text(job.description, DESCRIPTION_PREVIEW_CHARS)
     payload = {
-        "job_id": _make_job_id(job),
+        "job_id": make_job_id(job),
         "title": job.title,
         "company": job.company,
         "location": job.location,
@@ -227,25 +234,6 @@ def _build_job_payload(job: Job) -> dict[str, str]:
         payload["department"] = job.department
     return payload
 
-
-def _make_job_id(job: Job) -> str:
-    stable_fields = [
-        job.company.strip(),
-        job.title.strip(),
-        job.department.strip(),
-        job.location.strip(),
-        job.url.strip(),
-        _compact_text(job.description, 200),
-    ]
-    digest = sha256("||".join(stable_fields).encode("utf-8")).hexdigest()
-    return digest[:12]
-
-
-def _compact_text(text: str, max_chars: int) -> str:
-    normalized = " ".join(text.split())
-    if len(normalized) <= max_chars:
-        return normalized
-    return normalized[: max_chars - 3].rstrip() + "..."
 
 
 def write_results(

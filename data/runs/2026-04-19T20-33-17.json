@@ -1,0 +1,3857 @@
+{
+  "run_id": "2026-04-19T20-33-17",
+  "timestamp": "2026-04-19T20:33:17.121685+00:00",
+  "companies_searched": [
+    "Algorithma",
+    "Aptiv",
+    "AstraZeneca",
+    "Coretura",
+    "Eghed",
+    "Embedl",
+    "FlexQube",
+    "Friday",
+    "HiQ",
+    "Irisity",
+    "Juni",
+    "Knightec Group",
+    "Knowit",
+    "Magnet Forensics",
+    "Merphi",
+    "MindArk",
+    "Modulai",
+    "Quartr",
+    "Recorded Future",
+    "Robot Grader",
+    "Saab",
+    "Sendify",
+    "Smart Eye",
+    "Solita",
+    "Taigatech",
+    "TechSeed",
+    "Tokentek"
+  ],
+  "jobs": [
+    {
+      "job_id": "97a375fdfc48",
+      "job": {
+        "title": "Associate Consultant – Embedded Systems / Graduate 2026",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7362000-associate-consultant-embedded-systems-graduate-2026",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": true,
+      "reason": "Embedded C/C++ and real-time systems role is a plausible stretch given the candidate's C++ and ROS 2 skills in robotics."
+    },
+    {
+      "job_id": "a7fe365c0bca",
+      "job": {
+        "title": "Mjukvaruutvecklare med intresse för AI",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7324346-mjukvaruutvecklare-med-intresse-for-ai",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": true,
+      "reason": "Software developer role with explicit AI interest aligns well with candidate's Python, LLM, and AI systems background."
+    },
+    {
+      "job_id": "d7737bdd1d57",
+      "job": {
+        "title": "Embedded Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7324323-embedded-engineer",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": true,
+      "reason": "Embedded engineer role using C/C++ with cloud integration is a reasonable match given candidate's C++ and system integration skills."
+    },
+    {
+      "job_id": "d3898805e1cd",
+      "job": {
+        "title": "Systemtestare – Saab Göteborg",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Systemtestare---Saab-Gteborg_REQ_41489?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": true,
+      "reason": "Requires Python-based automated testing and Linux skills in Gothenburg — a strong match for the candidate's Python, scripting, and system integration background."
+    },
+    {
+      "job_id": "497d26af5d9f",
+      "job": {
+        "title": "Develop your passion for software into reality – be a part of Saab!",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg---Solhusgatan-10/Develop-your-passion-for-software-into-reality---be-a-part-of-Saab-_REQ_25201?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": true,
+      "reason": "Broad software engineering opening at Saab Gothenburg covering development, embedded systems, and test — a plausible match given the candidate's Python, C++, Docker, and system integration skills."
+    },
+    {
+      "job_id": "7b060d794809",
+      "job": {
+        "title": "Automationsutvecklare till Digital Solutions",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Automationsutvecklare-till-Digital-Solutions_REQ_40725?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": true,
+      "reason": "Strong alignment with Python, agentic AI, and workflow automation skills; role explicitly mentions Python and agentic AI technologies alongside RPA platforms."
+    },
+    {
+      "job_id": "bbac4af9b632",
+      "job": {
+        "title": "Business Analyst Mission System & C2",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Business-Analyst-Mission-System---C2_REQ_40801?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": true,
+      "reason": "Gothenburg location and overlap with automated workflows, AI solutions, and SQL/data analytics fit the candidate's profile, though the BA title is a stretch."
+    },
+    {
+      "job_id": "c8cc77fffc18",
+      "job": {
+        "title": "Integrations Developer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8503929002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": true,
+      "reason": "Based in Gothenburg, requires Python, REST APIs, Docker, Git, and system integration — a strong technical fit for this early-career engineer."
+    },
+    {
+      "job_id": "8e4e52c2bcb7",
+      "job": {
+        "title": "Senior Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8498381002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": true,
+      "reason": "Strong alignment on LLM/agentic AI systems and Python, though the senior level and Boston location are stretches — the role's core stack closely matches the candidate's skills."
+    },
+    {
+      "job_id": "8e4e52c2bcb7",
+      "job": {
+        "title": "Senior Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8504726002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": true,
+      "reason": "AI agentic systems and LLM focus directly matches the candidate's skills in LangChain, RAG, and agentic AI, even if the seniority and DC location are a stretch."
+    },
+    {
+      "job_id": "e808d5b7db42",
+      "job": {
+        "title": "Data Engineer (Analytics)",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/data-engineer-analytics_7427716",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": true,
+      "reason": "Strong fit—data pipelines, SQL, LLM-style interfaces, and analytics dashboards align well with the candidate's skills, and Gothenburg is a preferred location."
+    },
+    {
+      "job_id": "b3102a9ed45f",
+      "job": {
+        "title": "Python Backend Engineer (Document Automation)",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/python-backend-engineer-document-automation_6063511",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": true,
+      "reason": "Python backend and document automation work aligns with the candidate's Python, REST API, and pipeline experience; Gothenburg location is a match."
+    },
+    {
+      "job_id": "f65bfea9a8bc",
+      "job": {
+        "title": "Machine Learning Engineer - Sweden 🇸🇪",
+        "department": "",
+        "location": "",
+        "url": "https://modulai.teamtailor.com/jobs/1104520-machine-learning-engineer-sweden",
+        "description": "",
+        "company": "Modulai"
+      },
+      "match": true,
+      "reason": "Mid-level ML Engineer role in Gothenburg/Stockholm covering LLM fine-tuning, data pipelines, and production ML—a strong skills match and a reasonable stretch for the candidate."
+    },
+    {
+      "job_id": "2014013b487d",
+      "job": {
+        "title": "Technical Developer - Machine Learning",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/290562-smart-eye-ab-technical-developer-machine-learning/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": true,
+      "reason": "Gothenburg-based ML engineering role in computer vision and driver monitoring systems — strong location fit and a plausible stretch given the candidate's ML and Python background."
+    },
+    {
+      "job_id": "3453952824ba",
+      "job": {
+        "title": "Technical Developer - Project Team",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/306877-smart-eye-ab-technical-developer-project-team/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": true,
+      "reason": "Driver monitoring / automotive domain aligns with candidate's autonomous vehicles interest, and the role involves Python tooling, CI/CD, and data analysis matching their skill set."
+    },
+    {
+      "job_id": "9de29c83545c",
+      "job": {
+        "title": "Data & Analytics Job 1",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": true,
+      "reason": "Data & Analytics in Gothenburg aligns well with the candidate's data pipeline experience, Python, and SQL skills."
+    },
+    {
+      "job_id": "408a983a6fc6",
+      "job": {
+        "title": "Is Coretura your next adventure?",
+        "department": "",
+        "location": "",
+        "url": "https://career.coretura.com/jobs/6155504-is-coretura-your-next-adventure",
+        "description": "",
+        "company": "Coretura"
+      },
+      "match": true,
+      "reason": "Gothenburg-based vehicle software role using C/C++ and Python for automation is a solid fit with the candidate's background and interests in autonomous vehicles."
+    },
+    {
+      "job_id": "575e1d8b69f4",
+      "job": {
+        "title": "Utvecklare på det medarbetarägda konsultbolaget",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7510333-utvecklare-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": true,
+      "reason": "Developer role involving simulation, DevOps, digital twins, and process automation in Gothenburg is a strong match for the candidate's automation, integration, and Python skills."
+    },
+    {
+      "job_id": "5d85034809db",
+      "job": {
+        "title": "Cloudutvecklare på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7471652-cloudutvecklare-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": true,
+      "reason": "Cloud + automation + AI focus in Gothenburg aligns well with the candidate's automation, system integration, and AI skills, even without deep cloud-native background."
+    },
+    {
+      "job_id": "853281fafcfe",
+      "job": {
+        "title": "Integrationsutvecklare med intresse för automation",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7471630-integrationsutvecklare-med-intresse-for-automation",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": true,
+      "reason": "Strong fit given the candidate's REST API, workflow automation, and system integration experience in a Gothenburg hybrid role."
+    },
+    {
+      "job_id": "c2cca4014a7e",
+      "job": {
+        "title": "Data Engineer på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7380931-data-engineer-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": true,
+      "reason": "Direct match — Gothenburg, data pipelines, Python/SQL, and AI/ML context align closely with the candidate's experience and target roles."
+    },
+    {
+      "job_id": "3e70775cd28d",
+      "job": {
+        "title": "Data Bootcamp",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-bootcamp-6504065003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Sweden-based bootcamp for data engineers is a solid fit for the candidate's Python/SQL skills and data engineering ambitions as an early-career professional."
+    },
+    {
+      "job_id": "cd358f1509f2",
+      "job": {
+        "title": "AI Software Developer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/ai-software-developer-6294742003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Excellent match — AI software developer role in Sweden covering RAG, LLM agents, APIs, and backend aligns directly with the candidate's core skills and target role."
+    },
+    {
+      "job_id": "53856b16a4ed",
+      "job": {
+        "title": "Integration Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/integration-specialist-7523770003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Integration specialist role in Sweden using APIs and Azure aligns with the candidate's REST API and system integration experience, though Azure depth is a stretch."
+    },
+    {
+      "job_id": "e9f127c301ad",
+      "job": {
+        "title": "Analytics Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/analytics-engineer-6529359003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Analytics engineer role in Sweden using Python and SQL with data pipeline focus is a strong skill match for the candidate's background."
+    },
+    {
+      "job_id": "70ce3cdf9f06",
+      "job": {
+        "title": "Data Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-engineer-5472904003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Aligns well with the candidate's Python and data pipeline experience; Sweden location matches preference."
+    },
+    {
+      "job_id": "29f9e5cae15e",
+      "job": {
+        "title": "AI Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/ai-engineer-6564415003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Strong skills match on LLMs, agentic AI, and RAG, though located in Finland rather than Gothenburg — a reasonable stretch given role fit."
+    },
+    {
+      "job_id": "7cb7c62dea2a",
+      "job": {
+        "title": "AI Full-Stack Developer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/ai-full-stack-developer-7526223003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Excellent match on LangChain, agentic AI, and intelligent systems; Finland location is a stretch but role is highly aligned."
+    },
+    {
+      "job_id": "9d839a06d636",
+      "job": {
+        "title": "Solita Data Bootcamp – Intresseanmälan",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/solita-data-bootcamp-intresseanmalan-7548160003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Bootcamp designed for early-career data professionals in Sweden is a strong fit for the candidate's level and location."
+    },
+    {
+      "job_id": "a5501283d8ee",
+      "job": {
+        "title": "Analyskonsult – från affärsfråga till insikt",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/analyskonsult-fran-affarsfraga-till-insikt-7498198003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Analytics consultant role in Sweden using Python and SQL aligns with the candidate's skills and location preference, though BI tooling is a minor gap."
+    },
+    {
+      "job_id": "70ce3cdf9f06",
+      "job": {
+        "title": "Data Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-engineer-7482704003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": true,
+      "reason": "Data Engineer role covering pipelines and IoT in Finland is a solid fit for the candidate's Python and data engineering background."
+    },
+    {
+      "job_id": "f311b4c0d887",
+      "job": {
+        "title": "Data Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/7269219-data-engineer",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": true,
+      "reason": "Data Engineer role in Gothenburg aligned with candidate's Python, SQL, data pipeline, and CI/CD skills, though cloud/Kafka experience is a stretch."
+    },
+    {
+      "job_id": "76db97076479",
+      "job": {
+        "title": "C/C++ utvecklare",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/5884213-c-c-utvecklare",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": true,
+      "reason": "Junior C/C++ developer role in autonomous vehicles and simulators in Linköping — strong domain fit despite location being non-preferred."
+    },
+    {
+      "job_id": "6d4838bd3a38",
+      "job": {
+        "title": "Junior AI Systems Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://career.mindark.com/jobs/5143228-junior-ai-systems-engineer",
+        "description": "",
+        "company": "MindArk"
+      },
+      "match": true,
+      "reason": "Junior AI Systems Engineer in Gothenburg area directly matching the candidate's LLM/agentic AI, automation, C++, and CI/CD skills."
+    },
+    {
+      "job_id": "e24290407052",
+      "job": {
+        "title": "Senior Machine Learning Engineer (Magnet-Griffeye)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/62004e89-2698-4b02-92e6-37767074ed93",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": true,
+      "reason": "Gothenburg-based senior ML/AI role involving agentic workflows and production ML systems — a stretch given seniority, but strong skills alignment in LLMs, agentic AI, and Python makes it a plausible application."
+    },
+    {
+      "job_id": "9917dfed73c9",
+      "job": {
+        "title": "System Design Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.merphi.se/system-design-engineer-expert/",
+        "description": "",
+        "company": "Merphi"
+      },
+      "match": true,
+      "reason": "Gothenburg-based robotics systems role aligns well with the candidate's ROS 2, robotics simulation, and system integration background, though the seniority is a stretch."
+    },
+    {
+      "job_id": "3300e450f387",
+      "job": {
+        "title": "AI Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.tokentek.ai/careers/ai-engineer/",
+        "description": "",
+        "company": "Tokentek"
+      },
+      "match": true,
+      "reason": "Gothenburg AI Engineer role directly matches the candidate's LangChain, RAG, agentic AI, and pipeline-building experience."
+    },
+    {
+      "job_id": "cba4da064a1a",
+      "job": {
+        "title": "Agentic Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.tokentek.ai/careers/agentic-software-engineer/",
+        "description": "",
+        "company": "Tokentek"
+      },
+      "match": true,
+      "reason": "Agentic workflow engineering in Gothenburg aligns closely with the candidate's LLM/agentic AI skills and automation background."
+    },
+    {
+      "job_id": "f3c8b1cb14b8",
+      "job": {
+        "title": "Junior Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://needo.se/lediga-jobb/junior-software-engineer-to-flexqube/",
+        "description": "",
+        "company": "FlexQube"
+      },
+      "match": true,
+      "reason": "Junior Software Engineer at a Gothenburg robotics/automation company is a reasonable level and location fit for the candidate."
+    },
+    {
+      "job_id": "424de5347801",
+      "job": {
+        "title": "Open Application (CV & Cover Letter)",
+        "department": "",
+        "location": "",
+        "url": "mailto:apply@flexqube.com",
+        "description": "",
+        "company": "FlexQube"
+      },
+      "match": true,
+      "reason": "An open application to FlexQube in Gothenburg is a sensible exploratory move given the candidate's automation and robotics background."
+    },
+    {
+      "job_id": "b762ea200920",
+      "job": {
+        "title": "AI Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.algorithma.ai/careers/ai-engineer",
+        "description": "",
+        "company": "Algorithma"
+      },
+      "match": true,
+      "reason": "Explicitly targets 2026 MSc graduates and aligns directly with the candidate's LLM, agentic AI, and production system experience."
+    },
+    {
+      "job_id": "bf72bd08322f",
+      "job": {
+        "title": "Senior Interaktionsdesigner",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7530610-senior-interaktionsdesigner",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Interaction/UX design role with no overlap with the candidate's engineering, AI, or automation skills."
+    },
+    {
+      "job_id": "712661765150",
+      "job": {
+        "title": "Valideringsingenjör, Medtech",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7486202-valideringsingenjor-medtech",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Medtech validation and regulatory compliance role; no relevant skills or domain experience."
+    },
+    {
+      "job_id": "94c309a247dd",
+      "job": {
+        "title": "Creo-konstruktör",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7443123-creo-konstruktor",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Mechanical CAD design for defense hardware; unrelated to candidate's software/AI background."
+    },
+    {
+      "job_id": "6d456e24f9e6",
+      "job": {
+        "title": "Mekanikkonstruktör",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7442946-mekanikkonstruktor",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Mechanical product design role; completely outside the candidate's software and AI skill set."
+    },
+    {
+      "job_id": "32cab2087c48",
+      "job": {
+        "title": "LIfe Science Academy Medicinteknik",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7435058-life-science-academy-medicinteknik",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Life Science/medtech academy program focused on GMP and validation; no alignment with candidate's profile."
+    },
+    {
+      "job_id": "ff4a2f250b63",
+      "job": {
+        "title": "Kablagekonstruktör",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7426421-kablagekonstruktor",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Cable and wiring harness design role; unrelated to the candidate's software/AI expertise."
+    },
+    {
+      "job_id": "9562caebabaf",
+      "job": {
+        "title": "Associate Software Consultant / Graduate 2026",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7373349-associate-software-consultant-graduate-2026",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Focuses on Java/C#/.NET backend development; candidate's stack is Python-centric with no Java or .NET experience indicated."
+    },
+    {
+      "job_id": "6da2c9779cde",
+      "job": {
+        "title": "Senior Embedded Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7324337-senior-embedded-engineer",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Requires 10+ years of embedded development experience; far beyond the candidate's early-career level."
+    },
+    {
+      "job_id": "14359dd50ffd",
+      "job": {
+        "title": "Java-utvecklare",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7312417-java-utvecklare",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Java/Spring Boot backend role; candidate has no Java experience and is early-career against a senior-leaning profile."
+    },
+    {
+      "job_id": "cf7b6f3cd9ab",
+      "job": {
+        "title": "DevOps-utvecklare",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7312394-devops-utvecklare",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "DevOps role requiring Kubernetes, cloud platforms, and CI/CD expertise not demonstrated in the candidate's profile."
+    },
+    {
+      "job_id": "833feab80713",
+      "job": {
+        "title": ".NET-utvecklare",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7145101-net-utvecklare",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Requires C#/.NET expertise and senior-level architecture responsibility; outside candidate's skill set."
+    },
+    {
+      "job_id": "99d0020ee831",
+      "job": {
+        "title": "Senior Electronics Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7100671-senior-electronics-engineer",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Electronics hardware engineering role requiring senior-level electronics design experience; not aligned with candidate's profile."
+    },
+    {
+      "job_id": "a9fb82d7b72f",
+      "job": {
+        "title": "Software Developer / Tester – Linux & Embedded Systems",
+        "department": "",
+        "location": "",
+        "url": "https://career.knightecgroup.com/jobs/7100336-software-developer-tester-linux-embedded-systems",
+        "description": "",
+        "company": "Knightec Group"
+      },
+      "match": false,
+      "reason": "Linux embedded C development for ECUs in security-critical projects; too hardware-near and specialized for this candidate."
+    },
+    {
+      "job_id": "312fe301df20",
+      "job": {
+        "title": "Ledande Business Analyst med AI-intresse",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Business analyst / Power BI role requiring 3–5 years of BI experience; not aligned with candidate's AI/engineering focus."
+    },
+    {
+      "job_id": "6607c52830c3",
+      "job": {
+        "title": "Produktionsledare till global industriaktör inom värmebehandling",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Production team leadership in steel hardening; completely unrelated to candidate's background."
+    },
+    {
+      "job_id": "11c9228712fb",
+      "job": {
+        "title": "Produktions- och Processutvecklare",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Production planning and logistics role in Stockholm; mismatched domain, location, and skill set."
+    },
+    {
+      "job_id": "92c75e39f5c8",
+      "job": {
+        "title": "Rör- och Mekanikingenjör till Raffinaderi",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Piping and mechanical engineering for refinery projects; no relevant skills or domain overlap."
+    },
+    {
+      "job_id": "d0eb2ad1eafe",
+      "job": {
+        "title": "Inköpare med bakgrund inom logistik & supply chain",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Procurement/supply chain role; unrelated to candidate's technical profile."
+    },
+    {
+      "job_id": "cf3edbf9c2c3",
+      "job": {
+        "title": "Från komplex analys till verkliga system – Teknisk projektledare",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Senior technical project manager role in defense requiring several years of leadership experience; beyond candidate's level."
+    },
+    {
+      "job_id": "abf011891173",
+      "job": {
+        "title": "Systemingenjör inom hållfastighet",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Structural systems engineering for airborne systems; unrelated domain and skill set."
+    },
+    {
+      "job_id": "f0d4cc1bea62",
+      "job": {
+        "title": "QA-Designer till Globalt Medicintekniskt Bolag",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "QA design role in medtech requiring biotech/chemistry background; no relevant skills match."
+    },
+    {
+      "job_id": "f170b7c439c3",
+      "job": {
+        "title": "Mekanikkonstruktör till försvarsindustrin",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Mechanical CAD construction for defense; entirely outside the candidate's software and AI domain."
+    },
+    {
+      "job_id": "6a368794385d",
+      "job": {
+        "title": "Senior Embedded Developer, Space-Tech",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Requires 5–10 years of embedded/space-tech experience and is located in Stockholm, far beyond the candidate's seniority and location preference."
+    },
+    {
+      "job_id": "db60784e8615",
+      "job": {
+        "title": "Manuell Mjukvarutestare till Tekniskt Bolag i Göteborg",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Manual QA testing role is below the candidate's skill set and not aligned with their AI/ML or automation engineering targets."
+    },
+    {
+      "job_id": "2e03f77f39d1",
+      "job": {
+        "title": "Environmental Coordinator",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Environmental coordination in defense is entirely outside the candidate's technical domain and skills."
+    },
+    {
+      "job_id": "6ee1fe4763ff",
+      "job": {
+        "title": "Teknisk inköpsberedare till Försvarsindustrin",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Technical procurement role in defense/naval components has no overlap with the candidate's software and AI background."
+    },
+    {
+      "job_id": "7790c7c8ed06",
+      "job": {
+        "title": "Junior Inköpsprojektledare till Försvarsindustrin",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Friday"
+      },
+      "match": false,
+      "reason": "Junior procurement project management role in defense logistics doesn't match the candidate's engineering and AI skillset."
+    },
+    {
+      "job_id": "fba73359c56c",
+      "job": {
+        "title": "Automationsingenjör Mekatronik",
+        "department": "",
+        "location": "",
+        "url": "https://robotgrader.com/jobs/",
+        "description": "",
+        "company": "Robot Grader"
+      },
+      "match": false,
+      "reason": "Focuses on PLC programming and heavy field travel for mechatronics; not aligned with the candidate's Python/AI/robotics software profile."
+    },
+    {
+      "job_id": "aaa17cd181c9",
+      "job": {
+        "title": "Konstruktör Mekanik",
+        "department": "",
+        "location": "",
+        "url": "https://robotgrader.com/jobs/",
+        "description": "",
+        "company": "Robot Grader"
+      },
+      "match": false,
+      "reason": "Mechanical design and PLC-focused role with significant travel; doesn't align with the candidate's software and AI background."
+    },
+    {
+      "job_id": "5fec2a8df6af",
+      "job": {
+        "title": "Solution Architect till spännande resa",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Linkping---Wallenbergs-gata-7/Solution-Architect_REQ_41342?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Senior Solution Architect role requiring deep enterprise IT architecture and compliance (CMMC, ISO 27001) experience well beyond the candidate's level."
+    },
+    {
+      "job_id": "512068c9efe0",
+      "job": {
+        "title": "Join Giraffe 1X C2 as a Hardware Engineer!",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Join-Giraffe-1X-C2-as-a-Hardware-Engineer-_REQ_41392?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Hardware electrical/electronic design role for defense systems has no overlap with the candidate's software and AI skill set."
+    },
+    {
+      "job_id": "623581b1c4e6",
+      "job": {
+        "title": "Configuration Manager till vår flygburna radar och övervakningssystem",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Configuration-Manager-till-vr-flygburna-radar-och-vervakningssystem_REQ_41115-1?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Configuration management for long-lifecycle defense systems is a specialist role unrelated to the candidate's AI/automation background."
+    },
+    {
+      "job_id": "f173b49fb72c",
+      "job": {
+        "title": "IT Business Analyst",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Malm---Hallenborgsgatan-10/IT-Business-Analyst_REQ_41504?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "IT Business Analyst role centers on stakeholder management and requirements gathering, not the candidate's technical engineering strengths."
+    },
+    {
+      "job_id": "2da8489f24ba",
+      "job": {
+        "title": "IT Manager",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/IT-Manager_REQ_41180-1?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "IT Manager role is a senior leadership/governance position far outside the candidate's experience level and target roles."
+    },
+    {
+      "job_id": "b01f2e9f2a12",
+      "job": {
+        "title": "Mekanikingenjör till Saab – utveckla nästa generations försvarssystem",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg---Solhusgatan-10/Erfarna-mekanikingenjrer_REQ_37556?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Mechanical engineering for radar hardware (CAD/Creo) is unrelated to the candidate's software and AI profile."
+    },
+    {
+      "job_id": "6f24ba9ba010",
+      "job": {
+        "title": "Ingenjör inom kraftelektronik och kraftsystem",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg---Solhusgatan-10/Ingenjr-inom-kraftelektronik-och-kraftsystem_REQ_39930?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Power electronics and power systems design for radar is a specialized hardware role with no fit for the candidate's software/AI background."
+    },
+    {
+      "job_id": "9cb479841872",
+      "job": {
+        "title": "Fault management systems engineer",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Mlnlycke---Designvgen-2/Fault-management-design-engineer---ILS-Domain_REQ_38834?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "ILS/fault management engineering role in defense logistics is outside the candidate's AI, automation, and software domains."
+    },
+    {
+      "job_id": "5f6b5cf64d08",
+      "job": {
+        "title": "Head of Cyber Defence Center",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Linkping---Brderna-Ugglas-Gata/Head-of-Cyber-Defence-Center_REQ_40979?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Senior cybersecurity leadership role requiring deep security expertise and management experience, well beyond the candidate's level and domain."
+    },
+    {
+      "job_id": "361af209c4f7",
+      "job": {
+        "title": "Systemingenjör EMC – ansvar för EMC-provning och verifiering",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Systemingenjr-EMC---ansvar-fr-EMC-provning-och-verifiering-_REQ_41079?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "EMC systems engineering for defense hardware is a specialized field unrelated to the candidate's software/AI skill set."
+    },
+    {
+      "job_id": "3067f1d31292",
+      "job": {
+        "title": "Test and Functions Facilities Areas ansvarig",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Test-and-Functions-Facilities-Areas-ansvarig_REQ_40574?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Test facilities management role focused on physical test capacity planning and safety, not aligned with the candidate's software profile."
+    },
+    {
+      "job_id": "398aa83e1a0a",
+      "job": {
+        "title": "Surface Test Facilities Areas Support",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg/Surface-Test-Facilities-Areas-Support_REQ_40576?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Physical test facilities support role with no connection to the candidate's software, AI, or robotics skills."
+    },
+    {
+      "job_id": "da3750335968",
+      "job": {
+        "title": "Antennmätingenjör",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg---Solhusgatan-10/Antennmtingenjr_REQ_40354-2?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Antenna measurement engineering for radar systems is a specialized RF/hardware domain outside the candidate's expertise."
+    },
+    {
+      "job_id": "c03690a980ca",
+      "job": {
+        "title": "Mikrovågskonstruktör",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Gteborg---Solhusgatan-10/Mikrovgskonstruktr_REQ_34540-1?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Microwave engineering for radar antenna systems is a hardware-focused role entirely outside the candidate's software and AI background."
+    },
+    {
+      "job_id": "9af10479c8b2",
+      "job": {
+        "title": "IT-Service Coordinator Print",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Linkping---Wallenbergs-gata-7/IT-Service-Coordinator-Print_REQ_40790?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "IT print service coordination is an operational support role with no alignment to the candidate's engineering and AI targets."
+    },
+    {
+      "job_id": "eb6eb2e8ed42",
+      "job": {
+        "title": "IT-Service Coordinator",
+        "department": "",
+        "location": "",
+        "url": "https://saabgroup.wd3.myworkdayjobs.com/en-US/Saab_careers/job/Linkping---Wallenbergs-gata-7/IT-Service-Coordinator_REQ_40763?locationCountry=6a800a4736884df5826858d435650f45&locations=cf4b88bc0f171000ea083d7c0d1e0000&locations=362a01fdc04d012e07dd3c3d800e3467&locations=362a01fdc04d011d18413e3d800e3c67&locations=6f10d98539a71001e0e3be911c750000&jobFamilyGroup=a537886ccdea010bb3415d0be40eb201&jobFamilyGroup=a537886ccdea010d3515580be40e9001",
+        "description": "",
+        "company": "Saab"
+      },
+      "match": false,
+      "reason": "Workplace IT service coordination is an operational/vendor management role unrelated to the candidate's technical AI/software skill set."
+    },
+    {
+      "job_id": "3d8563a630c4",
+      "job": {
+        "title": "Account Director (Army)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8489769002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Enterprise sales role in Washington, DC with no relevance to the candidate's technical engineering background or location preference."
+    },
+    {
+      "job_id": "694ef84978f1",
+      "job": {
+        "title": "Account Director (Chicago)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8477801002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Enterprise sales role in Chicago with no alignment to the candidate's technical skills or location preference."
+    },
+    {
+      "job_id": "b45d1b3d2478",
+      "job": {
+        "title": "Account Director, Chicago",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8461229002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales-focused Account Director role in Illinois with no match to the candidate's engineering or AI background."
+    },
+    {
+      "job_id": "295cc1b7d9e2",
+      "job": {
+        "title": "Account Director, Colombia",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8500796002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales role based in Colombia with no relevance to technical skills or location preference."
+    },
+    {
+      "job_id": "e93ebb1f026f",
+      "job": {
+        "title": "Account Director, India",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8401810002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales role based in India with no alignment to the candidate's technical engineering profile."
+    },
+    {
+      "job_id": "f85677b06664",
+      "job": {
+        "title": "Account Director, Indonesia",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8418588002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Enterprise sales role in Singapore with no relevance to engineering skills or preferred location."
+    },
+    {
+      "job_id": "e73d11170e71",
+      "job": {
+        "title": "Account Director (Mid-Atlantic/Southeast)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8442960002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales role in the US Southeast with no connection to the candidate's technical or location profile."
+    },
+    {
+      "job_id": "7734e890fc72",
+      "job": {
+        "title": "Account Director (Navy)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8498284002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales role in Washington, DC focused on cybersecurity accounts, not relevant to the candidate's background."
+    },
+    {
+      "job_id": "13ac9733889c",
+      "job": {
+        "title": "Account Director (New York)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8444648002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Enterprise sales role in New York with no technical or location alignment."
+    },
+    {
+      "job_id": "e6047d484907",
+      "job": {
+        "title": "Account Director (NorCal)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8441715002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales role in San Francisco with no match to engineering skills or location preference."
+    },
+    {
+      "job_id": "14462b10811b",
+      "job": {
+        "title": "Account Director, Singapore",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8418586002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior sales leadership role in Singapore with no relevance to the candidate's profile."
+    },
+    {
+      "job_id": "485a5b767518",
+      "job": {
+        "title": "Associate Account Director, Australia (Canberra based)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8446033002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Entry-level sales role in Australia; still sales-focused with no technical alignment."
+    },
+    {
+      "job_id": "140cf0fe05b8",
+      "job": {
+        "title": "Business Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8399212002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Business development/sales role in Boston with no relevance to the candidate's engineering background."
+    },
+    {
+      "job_id": "9363d6ed7c8e",
+      "job": {
+        "title": "Business Development Representative (Boston) – Join Our Talent Network!",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8242088002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "BDR sales role in Boston with no alignment to technical skills or Gothenburg preference."
+    },
+    {
+      "job_id": "64039de69762",
+      "job": {
+        "title": "Business Development Representative (Public Sector/DC) – Join Our Talent Network!",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/7812477002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales-focused BDR role in Washington, DC with no relevance to the candidate's background."
+    },
+    {
+      "job_id": "f04ba8bbe143",
+      "job": {
+        "title": "Director, Regional Sales, ASEAN",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8461235002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior regional sales director role in Singapore with no connection to technical engineering skills."
+    },
+    {
+      "job_id": "24a72eb7188e",
+      "job": {
+        "title": "Email Campaign Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8363164002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Marketing/email campaign role in Washington, DC with no alignment to the candidate's technical profile."
+    },
+    {
+      "job_id": "24a72eb7188e",
+      "job": {
+        "title": "Email Campaign Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8354879002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Email marketing role in Boston with no relevance to the candidate's engineering or AI skills."
+    },
+    {
+      "job_id": "5906bde04341",
+      "job": {
+        "title": "Fraud Analyst",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8486011002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Cybersecurity intelligence/fraud analysis role requiring Chinese-language proficiency, not aligned with the candidate's profile."
+    },
+    {
+      "job_id": "5906bde04341",
+      "job": {
+        "title": "Fraud Analyst",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8493906002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Fraud/cyber threat intelligence role requiring Chinese-language monitoring, not aligned with the candidate's skills."
+    },
+    {
+      "job_id": "8a45e705faeb",
+      "job": {
+        "title": "Lead CPQ Salesforce Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8488238002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior Salesforce CPQ specialist role in sales operations with no relevance to the candidate's engineering background."
+    },
+    {
+      "job_id": "8a45e705faeb",
+      "job": {
+        "title": "Lead CPQ Salesforce Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8482250002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior Salesforce/CPQ-focused RevOps role with no alignment to the candidate's technical engineering skills."
+    },
+    {
+      "job_id": "8a45e705faeb",
+      "job": {
+        "title": "Lead CPQ Salesforce Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8488239002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Salesforce CPQ and Quote-to-Cash expertise is entirely outside the candidate's technical background and target roles."
+    },
+    {
+      "job_id": "8a45e705faeb",
+      "job": {
+        "title": "Lead CPQ Salesforce Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8488241002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior Salesforce CPQ role in revenue operations with no alignment to the candidate's skills or domain interests."
+    },
+    {
+      "job_id": "ea915dfde9c8",
+      "job": {
+        "title": "Learning Experience Designer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8481296002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Instructional design and e-learning content creation is unrelated to the candidate's engineering and AI/ML background."
+    },
+    {
+      "job_id": "32501beac668",
+      "job": {
+        "title": "Marketing Systems & AI Automation Manager (Clay Experience Required)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8482252002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Marketing operations focus with Clay/GTM tooling is far from the candidate's AI/ML and robotics engineering profile, and is US-remote only."
+    },
+    {
+      "job_id": "8c4e574a4d40",
+      "job": {
+        "title": "Network Intelligence Analyst (DC, Tokyo, Singapore) - Join Our Talent Network!",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8420382002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Network intelligence analysis for cybersecurity is outside the candidate's domain, and the locations don't match preferences."
+    },
+    {
+      "job_id": "51fc6cd5d34d",
+      "job": {
+        "title": "PKI Security Engineer, Product Security",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8445251002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "PKI and cryptography specialization is a niche security domain not covered by the candidate's skills or target roles."
+    },
+    {
+      "job_id": "d76971ceb896",
+      "job": {
+        "title": "Platform Engineer (Encryption & Data Security)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8508973002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Encryption platform engineering with AWS/GitOps focus is a security-specific domain outside the candidate's experience."
+    },
+    {
+      "job_id": "d76971ceb896",
+      "job": {
+        "title": "Platform Engineer (Encryption & Data Security)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8508971002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Same as above — encryption and data security platform engineering is not aligned with the candidate's AI/ML and automation skillset."
+    },
+    {
+      "job_id": "d76971ceb896",
+      "job": {
+        "title": "Platform Engineer (Encryption & Data Security)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8504902002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Data security and encryption infrastructure role is outside the candidate's target domains despite Gothenburg location match."
+    },
+    {
+      "job_id": "33077dc11cf2",
+      "job": {
+        "title": "SDLC Security Engineer, Product Security",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8445256002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Secure SDLC engineering is a specialized security role with no alignment to the candidate's AI, automation, or robotics skills."
+    },
+    {
+      "job_id": "c82ce18f9936",
+      "job": {
+        "title": "Security Engineer, Product Security",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8450923002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Product security engineering with SIEM/SOAR focus is outside the candidate's technical domain despite Gothenburg location."
+    },
+    {
+      "job_id": "e1e02126c2d5",
+      "job": {
+        "title": "Security Engineer - Splunk",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8461233002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Splunk-focused security engineering role in London is outside both the candidate's domain and preferred location."
+    },
+    {
+      "job_id": "2171482b690a",
+      "job": {
+        "title": "Senior Business Development Representative, Australia",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8441713002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Sales BDR role in Australia is entirely outside the candidate's technical background and location preferences."
+    },
+    {
+      "job_id": "2171482b690a",
+      "job": {
+        "title": "Senior Business Development Representative, Australia",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8444412002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior sales development role with no technical or domain relevance to the candidate's profile."
+    },
+    {
+      "job_id": "3382ad94539b",
+      "job": {
+        "title": "Senior Director, Federal Sales",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8444661002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Federal sales leadership role in DC is completely unrelated to the candidate's engineering background."
+    },
+    {
+      "job_id": "79ef4b593876",
+      "job": {
+        "title": "Senior Learning Experience Designer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8481300002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior instructional design role focused on cybersecurity training content is outside the candidate's engineering domain."
+    },
+    {
+      "job_id": "011cb2852c91",
+      "job": {
+        "title": "Senior Platform Engineer (Encryption & Data Security)",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8504894002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior-level encryption and data security platform engineering in the US doesn't match the candidate's seniority or domain."
+    },
+    {
+      "job_id": "11d5a27220aa",
+      "job": {
+        "title": "Senior Product Manager",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8356064002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior product management for intelligence data lifecycle requires business seniority and PM experience the candidate lacks."
+    },
+    {
+      "job_id": "11d5a27220aa",
+      "job": {
+        "title": "Senior Product Manager",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8334746002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior PM role requiring extensive product strategy experience is well above the candidate's early-career level."
+    },
+    {
+      "job_id": "0a41ebc17871",
+      "job": {
+        "title": "Senior Product Marketing Manager",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8482248002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Product marketing management for cybersecurity is outside the candidate's technical engineering focus entirely."
+    },
+    {
+      "job_id": "e6392daffeb0",
+      "job": {
+        "title": "Senior Sales Engineer, Colombia",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8246295002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Senior presales engineering in Colombia for cybersecurity is outside the candidate's location, seniority, and domain."
+    },
+    {
+      "job_id": "99aa25be8b36",
+      "job": {
+        "title": "Senior Technical Trainer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8481294002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Cybersecurity trainer and curriculum developer role in India is outside the candidate's engineering targets and location."
+    },
+    {
+      "job_id": "29c2fa276168",
+      "job": {
+        "title": "Senior Threat Data Infrastructure Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8444930002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Threat data infrastructure engineering in the UK with a cybersecurity intelligence focus doesn't align with the candidate's domain or location preference."
+    },
+    {
+      "job_id": "4c226321a2ca",
+      "job": {
+        "title": "Technical Product Marketing Manager",
+        "department": "",
+        "location": "",
+        "url": "https://job-boards.greenhouse.io/recordedfuture/jobs/8491653002",
+        "description": "",
+        "company": "Recorded Future"
+      },
+      "match": false,
+      "reason": "Product marketing role in cybersecurity/Miami with no alignment to the candidate's technical engineering skills or location preference."
+    },
+    {
+      "job_id": "759aba418583",
+      "job": {
+        "title": "Python Backend Engineer (Live team)",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/python-backend-engineer-live-team_7504151",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Audio streaming focus is a niche outside the candidate's core skills in AI/ML, automation, and robotics."
+    },
+    {
+      "job_id": "ca7f88da7bb0",
+      "job": {
+        "title": "Senior Full Stack Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/senior-full-stack-engineer_6330302",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Senior-level full-stack role requiring significant frontend and architecture experience beyond the candidate's junior/early-career profile."
+    },
+    {
+      "job_id": "b1801f82deb9",
+      "job": {
+        "title": "Data Quality Controller",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/data-quality-controller_7579875",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Data quality/QA controller role is non-technical and doesn't leverage the candidate's engineering and AI skills."
+    },
+    {
+      "job_id": "654d4c3501d1",
+      "job": {
+        "title": "Data Sourcing Controller",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/data-sourcing-controller_7485659",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Manual data sourcing role with no engineering or ML component; misaligned with the candidate's technical profile."
+    },
+    {
+      "job_id": "d55e87c37ec4",
+      "job": {
+        "title": "Account Executive",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/account-executive_7167674",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Sales/Account Executive role in New York with no relevance to the candidate's technical or engineering background."
+    },
+    {
+      "job_id": "d55e87c37ec4",
+      "job": {
+        "title": "Account Executive",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/account-executive_6298511",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Sales role in Dublin unrelated to the candidate's technical engineering skills or location preference."
+    },
+    {
+      "job_id": "90e01a87d538",
+      "job": {
+        "title": "Inbound Sales Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/inbound-sales-development-representative_6920204",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Inbound sales development role in New York with no alignment to the candidate's technical background or location."
+    },
+    {
+      "job_id": "4f8c6a884f3e",
+      "job": {
+        "title": "Outbound Sales Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/outbound-sales-development-representative_7091849",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Outbound sales role in New York; entirely outside the candidate's engineering and AI skill set."
+    },
+    {
+      "job_id": "d8fd9505050e",
+      "job": {
+        "title": "Sales Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/sales-development-representative_7541615",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Sales development role in Dublin with no technical engineering relevance."
+    },
+    {
+      "job_id": "d8fd9505050e",
+      "job": {
+        "title": "Sales Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/sales-development-representative_6452080",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Another SDR sales role in Dublin; no match with the candidate's engineering profile."
+    },
+    {
+      "job_id": "fda25febb919",
+      "job": {
+        "title": "Host & Video Content Creator",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/host-video-content-creator_7271450",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "On-camera video/content creator role with no connection to the candidate's technical skills."
+    },
+    {
+      "job_id": "700cfd145fbd",
+      "job": {
+        "title": "Performance Marketing Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/performance-marketing-specialist_7435117",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Performance marketing role focused on paid ads and campaign management; unrelated to the candidate's engineering background."
+    },
+    {
+      "job_id": "6a0944a7be82",
+      "job": {
+        "title": "Product Marketing Manager",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/product-marketing-manager_7435073",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Product marketing manager role in New York focused on sales enablement; not an engineering position."
+    },
+    {
+      "job_id": "f3f66ab1675d",
+      "job": {
+        "title": "Open Application",
+        "department": "",
+        "location": "",
+        "url": "https://quartr.com/careers/job/open-application_5635747",
+        "description": "",
+        "company": "Quartr"
+      },
+      "match": false,
+      "reason": "Open application with unspecified location; too vague and finance-domain-focused to be a clear fit for a technical AI/ML candidate."
+    },
+    {
+      "job_id": "d93122c35434",
+      "job": {
+        "title": "Senior Data Engineer - Göteborg",
+        "department": "",
+        "location": "",
+        "url": "https://eghed.se/jobb/senior-data-engineer-goteborg/",
+        "description": "",
+        "company": "Eghed"
+      },
+      "match": false,
+      "reason": "Requires 5+ years of senior Data Engineering experience, well beyond the candidate's junior/internship level."
+    },
+    {
+      "job_id": "6c6ffd3000df",
+      "job": {
+        "title": "Senior Data Engineer - Stockholm",
+        "department": "",
+        "location": "",
+        "url": "https://eghed.se/jobb/senior-data-engineer-stockholm/",
+        "description": "",
+        "company": "Eghed"
+      },
+      "match": false,
+      "reason": "Senior Data Engineer role requiring 5+ years of experience; candidate is early-career and does not meet seniority requirements."
+    },
+    {
+      "job_id": "f8fb3777e5d3",
+      "job": {
+        "title": "Senior Data Scientist - Stockholm",
+        "department": "",
+        "location": "",
+        "url": "https://eghed.se/jobb/senior-data-scientist-stockholm/",
+        "description": "",
+        "company": "Eghed"
+      },
+      "match": false,
+      "reason": "Senior Data Scientist role requiring substantial experience; exceeds the candidate's current seniority level."
+    },
+    {
+      "job_id": "7bcf0f0d1cac",
+      "job": {
+        "title": "Senior Machine Learning Engineer - Stockholm",
+        "department": "",
+        "location": "",
+        "url": "https://eghed.se/jobb/senior-machine-learning-engineer-stockholm/",
+        "description": "",
+        "company": "Eghed"
+      },
+      "match": false,
+      "reason": "Senior ML Engineer role requiring 5+ years and production ML system architecture experience; too senior for the candidate."
+    },
+    {
+      "job_id": "0740fcddd423",
+      "job": {
+        "title": "Senior Machine Learning Engineer - Fraud Detection",
+        "department": "",
+        "location": "",
+        "url": "https://modulai.teamtailor.com/jobs/7360146-senior-machine-learning-engineer-fraud-detection",
+        "description": "",
+        "company": "Modulai"
+      },
+      "match": false,
+      "reason": "Senior ML Engineer in fraud detection requiring significant production ML experience; exceeds the candidate's early-career level."
+    },
+    {
+      "job_id": "143bb14a266b",
+      "job": {
+        "title": "Senior Machine Learning Engineer - Sweden 🇸🇪",
+        "department": "",
+        "location": "",
+        "url": "https://modulai.teamtailor.com/jobs/1104669-senior-machine-learning-engineer-sweden",
+        "description": "",
+        "company": "Modulai"
+      },
+      "match": false,
+      "reason": "Senior ML Engineer requiring team leadership and deep applied ML expertise; too senior for a Master's student with internship experience."
+    },
+    {
+      "job_id": "e10c4d6d0fc5",
+      "job": {
+        "title": "Fullstack Developer - leading UI improvements for physical AI solutions",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.taigatech.se/jobs/7358160-fullstack-developer-leading-ui-improvements-for-physical-ai-solutions",
+        "description": "",
+        "company": "Taigatech"
+      },
+      "match": false,
+      "reason": "Full-stack developer role with a strong frontend focus in wood-industry AI; frontend architecture leadership doesn't align with the candidate's core skills."
+    },
+    {
+      "job_id": "65b56b37dad9",
+      "job": {
+        "title": "Regional Sales Manager - Nordics",
+        "department": "",
+        "location": "",
+        "url": "https://www.aptiv.com/en/jobs/search/open-positions/J000693268",
+        "description": "",
+        "company": "Aptiv"
+      },
+      "match": false,
+      "reason": "Sales management role requiring business development and quota ownership — no alignment with the candidate's engineering and AI skills."
+    },
+    {
+      "job_id": "aea338998516",
+      "job": {
+        "title": "Senior Member of Technical Staff - Embedded Software Developer",
+        "department": "",
+        "location": "",
+        "url": "https://www.aptiv.com/en/jobs/search/open-positions/J000693013",
+        "description": "",
+        "company": "Aptiv"
+      },
+      "match": false,
+      "reason": "Senior-level embedded systems role requiring deep Simics expertise and mentoring experience — well above the candidate's current seniority."
+    },
+    {
+      "job_id": "cfe07c8b829a",
+      "job": {
+        "title": "Senior Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.aptiv.com/en/jobs/search/open-positions/J000693015",
+        "description": "",
+        "company": "Aptiv"
+      },
+      "match": false,
+      "reason": "Senior-level simulation/embedded software role focused on processor architecture modeling — too senior and outside the candidate's domain focus."
+    },
+    {
+      "job_id": "6258690e170d",
+      "job": {
+        "title": "Member of Technical Staff - Embedded Developer",
+        "department": "",
+        "location": "",
+        "url": "https://www.aptiv.com/en/jobs/search/open-positions/J000693014",
+        "description": "",
+        "company": "Aptiv"
+      },
+      "match": false,
+      "reason": "Embedded developer role centered on Simics simulation platform with no overlap with the candidate's Python, AI, or robotics skill set."
+    },
+    {
+      "job_id": "792c7482c228",
+      "job": {
+        "title": "Postdoctoral Researcher in Quantum Machine Learning for Drug Development, Predictive Science Digital and Automation, Pharmaceutical Sciences, Biopharma R&D",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/postdoctoral-researcher-in-quantum-machine-learning-for-drug-development-predictive-science-digital/7684/94058674928",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Postdoctoral research role in quantum machine learning for pharma — requires a completed PhD and specialized quantum computing background the candidate lacks."
+    },
+    {
+      "job_id": "2c124f7a87ea",
+      "job": {
+        "title": "Thesis Work, 30 Credits - Accelerating siRNA Clinical Formulation Development with Modelling and High Throughput Techniques",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/thesis-work-30-credits-accelerating-sirna-clinical-formulation-development-with-modelling-and-high-/7684/93945009072",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Thesis project focused on pharmaceutical formulation science (siRNA) — entirely outside the candidate's engineering and AI domain."
+    },
+    {
+      "job_id": "d498958c4743",
+      "job": {
+        "title": "Franchise Lead Hematology Nordics Oncology - Nordic Marketing Company",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/stockholm/franchise-lead-hematology-nordics-oncology-nordic-marketing-company/7684/93945008992",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Hematology oncology franchise marketing leadership role — completely unrelated to the candidate's technical profile."
+    },
+    {
+      "job_id": "f7f490026ed3",
+      "job": {
+        "title": "Clinical Pharmacometrician in CVRM (Associate Director/Senior Scientist)",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/clinical-pharmacometrician-in-cvrm-associate-director-senior-scientist/7684/93945008320",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Clinical pharmacometrics role requiring specialist drug development and PKPD modeling expertise — no domain overlap with the candidate."
+    },
+    {
+      "job_id": "0cc789a43232",
+      "job": {
+        "title": "Pre Commercial Director – Global Supply Chain & Strategy",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/sodertalje/pre-commercial-director-global-supply-chain-and-strategy/7684/93793830176",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Supply chain and pre-commercial director role in pharma — no alignment with the candidate's skills or target domains."
+    },
+    {
+      "job_id": "230382d25372",
+      "job": {
+        "title": "Scientific Study Leader - BioPharmaceuticals Medical, Cardiovascular, Renal and Metabolism (BPM CVRM)",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/scientific-study-leader-biopharmaceuticals-medical-cardiovascular-renal-and-metabolism-bpm-cvrm/7684/93793829296",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Epidemiology and observational research leadership role in pharma — outside the candidate's technical background entirely."
+    },
+    {
+      "job_id": "a9011d6d8a29",
+      "job": {
+        "title": "Clinical Procurement Business Partner – R&D Global Procurement",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/clinical-procurement-business-partner-r-and-d-global-procurement/7684/93753406784",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Clinical procurement business partner role in R&D — no relevance to the candidate's engineering or AI skill set."
+    },
+    {
+      "job_id": "21cbfe579be0",
+      "job": {
+        "title": "Senior Scientist– Predictive Stability, Pharmaceutical Product Development",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/senior-scientist-predictive-stability-pharmaceutical-product-development/7684/93715372560",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Pharmaceutical predictive stability scientist role — domain and scientific background are entirely unrelated to the candidate's profile."
+    },
+    {
+      "job_id": "07dae5a10d3d",
+      "job": {
+        "title": "Thesis Work, 45 Credits - Generation and optimization of 3D iPSC-derived lung alveolospheres for assay development",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/thesis-work-45-credits-generation-and-optimization-of-3d-ipsc-derived-lung-alveolospheres-for-assay/7684/93527479984",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Biology-focused thesis on iPSC-derived lung cell cultures — no connection to the candidate's engineering or AI background."
+    },
+    {
+      "job_id": "38afdaa8e62e",
+      "job": {
+        "title": "Senior Regulatory Affairs Director (Cardiovascular, Renal & Metabolism)",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/senior-regulatory-affairs-director-cardiovascular-renal-and-metabolism/7684/93527479104",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Senior regulatory affairs director role in pharma drug development — completely outside the candidate's domain and seniority."
+    },
+    {
+      "job_id": "cc6ce4937847",
+      "job": {
+        "title": "Regulatory Affairs Director (Cardiovascular, Renal & Metabolism)",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/regulatory-affairs-director-cardiovascular-renal-and-metabolism/7684/93527479072",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Regulatory affairs director role for drug development — no overlap with the candidate's technical engineering profile."
+    },
+    {
+      "job_id": "ff140a40845d",
+      "job": {
+        "title": "Statistical Programming Strategy & Portfolio Lead, Associate Director",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/statistical-programming-strategy-and-portfolio-lead-associate-director/7684/93489120608",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Statistical programming leadership role requiring clinical development and SAS/regulatory expertise — too senior and domain-mismatched."
+    },
+    {
+      "job_id": "77d8b8a646c5",
+      "job": {
+        "title": "Thesis Work, 30 Credits - Understanding and Managing Apparent Over-Recovery in Nanocrystal Formulations During Early Development",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/thesis-work-30-credits-understanding-and-managing-apparent-over-recovery-in-nanocrystal-formulation/7684/93451073760",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Pharmaceutical chemistry thesis on nanocrystal formulations — entirely outside the candidate's engineering and AI domain."
+    },
+    {
+      "job_id": "6bde879dda27",
+      "job": {
+        "title": "Industrial PhD student in Machine Learning and Drug Design in Molecular AI",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/industrial-phd-student-in-machine-learning-and-drug-design-in-molecular-ai/7684/93451073056",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Industrial PhD in ML for drug design requiring cheminformatics and computational chemistry depth — domain is too specialized and pharma-focused."
+    },
+    {
+      "job_id": "92b5a5ce682e",
+      "job": {
+        "title": "Industrial PhD student in Molecular AI",
+        "department": "",
+        "location": "",
+        "url": "https://careers.astrazeneca.com/job/gothenburg/industrial-phd-student-in-molecular-ai/7684/93451073024",
+        "description": "",
+        "company": "AstraZeneca"
+      },
+      "match": false,
+      "reason": "Industrial PhD in molecular AI for cyclic peptide design — requires biochemistry/cheminformatics background absent from the candidate's profile."
+    },
+    {
+      "job_id": "131c7514cb8b",
+      "job": {
+        "title": "Data Annotation Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/288033-smart-eye-ab-data-annotation-specialist/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": false,
+      "reason": "Data annotation specialist role in Cairo — location mismatch and well below the candidate's technical capabilities."
+    },
+    {
+      "job_id": "21f69d9eb5a9",
+      "job": {
+        "title": "Resident Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/222184-smart-eye-ab-resident-engineer/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": false,
+      "reason": "Resident engineer role based in Detroit requiring automotive OEM customer-facing experience — location and domain are misaligned."
+    },
+    {
+      "job_id": "8470b2f0b704",
+      "job": {
+        "title": "IT Support Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/351042-smart-eye-ab-it-support-engineer/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": false,
+      "reason": "IT support/infrastructure role focused on helpdesk and networking — significantly below the candidate's technical level and not target-aligned."
+    },
+    {
+      "job_id": "a59f8fca9f12",
+      "job": {
+        "title": "Senior Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/346909-smart-eye-ab-senior-software-engineer/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": false,
+      "reason": "Senior software engineer role in Cairo for embedded automotive SDK development — location mismatch and too senior."
+    },
+    {
+      "job_id": "14fae150933d",
+      "job": {
+        "title": "Machine Learning Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://emp.jobylon.com/jobs/344236-smart-eye-ab-machine-learning-engineer/",
+        "description": "",
+        "company": "Smart Eye"
+      },
+      "match": false,
+      "reason": "ML engineer role in Cairo focused on embedded automotive vision systems — location is a disqualifier and the domain is a stretch."
+    },
+    {
+      "job_id": "8c3efa5b9327",
+      "job": {
+        "title": "Business Solutions Job 1",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Business Solutions consulting is outside the candidate's technical AI/ML and engineering focus areas."
+    },
+    {
+      "job_id": "cee46abcb8f4",
+      "job": {
+        "title": "Business Solutions Job 2",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Business Solutions consulting is outside the candidate's technical AI/ML and engineering focus areas."
+    },
+    {
+      "job_id": "bf5d847b8a08",
+      "job": {
+        "title": "Business Solutions Job 3",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Business Solutions consulting is outside the candidate's technical AI/ML and engineering focus areas."
+    },
+    {
+      "job_id": "4d902e4b0564",
+      "job": {
+        "title": "Business Solutions Job 4",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Business Solutions consulting is outside the candidate's technical AI/ML and engineering focus areas."
+    },
+    {
+      "job_id": "450d969daeb2",
+      "job": {
+        "title": "Cybersecurity & Law Job 1",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Cybersecurity & Law is unrelated to the candidate's AI/ML, robotics, and automation skill set."
+    },
+    {
+      "job_id": "eecd4b80722b",
+      "job": {
+        "title": "Cybersecurity & Law Job 2",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Cybersecurity & Law is unrelated to the candidate's AI/ML, robotics, and automation skill set."
+    },
+    {
+      "job_id": "9db6f93731ea",
+      "job": {
+        "title": "Cybersecurity & Law Job 3",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Cybersecurity & Law is unrelated to the candidate's AI/ML, robotics, and automation skill set."
+    },
+    {
+      "job_id": "9f603df7d5d6",
+      "job": {
+        "title": "Cybersecurity & Law Job 4",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Cybersecurity & Law is unrelated to the candidate's AI/ML, robotics, and automation skill set."
+    },
+    {
+      "job_id": "7f1cc1e148eb",
+      "job": {
+        "title": "Defence Job 1",
+        "department": "",
+        "location": "",
+        "url": "https://www.knowit.se/karriar/lediga-jobb/",
+        "description": "",
+        "company": "Knowit"
+      },
+      "match": false,
+      "reason": "Defence consulting typically requires security clearances and domain experience the candidate does not appear to have."
+    },
+    {
+      "job_id": "4d632a082f6e",
+      "job": {
+        "title": "Release Quality Engineering",
+        "department": "",
+        "location": "",
+        "url": "https://career.coretura.com/jobs/7564579-release-quality-engineering",
+        "description": "",
+        "company": "Coretura"
+      },
+      "match": false,
+      "reason": "Release quality/QE role emphasizes customer-facing quality assurance maturity that is better suited for a more experienced professional."
+    },
+    {
+      "job_id": "6c4c8de8d98d",
+      "job": {
+        "title": "Principal Data Architecture",
+        "department": "",
+        "location": "",
+        "url": "https://career.coretura.com/jobs/7558863-principal-data-architecture",
+        "description": "",
+        "company": "Coretura"
+      },
+      "match": false,
+      "reason": "Principal Data Architect is a senior leadership role requiring deep architectural experience well beyond an early-career candidate."
+    },
+    {
+      "job_id": "63c3dbd370c2",
+      "job": {
+        "title": "HMI System Architect",
+        "department": "",
+        "location": "",
+        "url": "https://career.coretura.com/jobs/7483288-hmi-system-architect",
+        "description": "",
+        "company": "Coretura"
+      },
+      "match": false,
+      "reason": "HMI System Architect is a senior role focused on infotainment architecture, outside the candidate's domain and experience level."
+    },
+    {
+      "job_id": "b0bac4ffd8e6",
+      "job": {
+        "title": "AI Platform Architect",
+        "department": "",
+        "location": "",
+        "url": "https://career.coretura.com/jobs/7475962-ai-platform-architect",
+        "description": "",
+        "company": "Coretura"
+      },
+      "match": false,
+      "reason": "AI Platform Architect is a senior enterprise architecture role requiring years of experience that exceeds the candidate's early-career level."
+    },
+    {
+      "job_id": "f2f2bc1173f9",
+      "job": {
+        "title": "Risk Management Consultant på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7590412-risk-management-consultant-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Risk management consulting requires regulatory and compliance expertise that is unrelated to the candidate's technical profile."
+    },
+    {
+      "job_id": "ebcc48016eb9",
+      "job": {
+        "title": "Cyber Security Engineer till det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7590405-cyber-security-engineer-till-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Cyber security engineering is outside the candidate's skill set and target domains."
+    },
+    {
+      "job_id": "186603106c3c",
+      "job": {
+        "title": "Senior Cyber Security Consultant på TechSeed",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7590378-senior-cyber-security-consultant-pa-techseed",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Senior cybersecurity consulting role is misaligned with both the candidate's domain expertise and seniority level."
+    },
+    {
+      "job_id": "3035772627cc",
+      "job": {
+        "title": "Privacy & Compliance Consultant på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7590346-privacy-compliance-consultant-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Privacy & compliance consulting requires regulatory expertise unrelated to the candidate's engineering and AI background."
+    },
+    {
+      "job_id": "e2cb762c7afc",
+      "job": {
+        "title": "Senior Embedded Engineer på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7541767-senior-embedded-engineer-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Requires 5+ years of embedded development experience, exceeding the candidate's early-career level."
+    },
+    {
+      "job_id": "0975bf8a721b",
+      "job": {
+        "title": "Lösningsarkitekt på det medarbetarägda konsultbolaget",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7510309-losningsarkitekt-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Solutions Architect is a senior role requiring broad enterprise architecture experience beyond the candidate's early-career level."
+    },
+    {
+      "job_id": "da638f57424c",
+      "job": {
+        "title": "Lösningsarkitekt inom uppkopplade system",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7500275-losningsarkitekt-inom-uppkopplade-system",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Solutions Architect in connected systems requires senior-level architectural experience and IoT domain depth the candidate hasn't yet established."
+    },
+    {
+      "job_id": "6b32fa2c5ffb",
+      "job": {
+        "title": "Lösningsarkitekt med intresse för Automation, Integration och Cloud",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7471663-losningsarkitekt-med-intresse-for-automation-integration-och-cloud",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Hyperautomation Solutions Architect is a senior consulting role expecting deep architecture and stakeholder management experience beyond the candidate's current level."
+    },
+    {
+      "job_id": "9c4bdc35a2a8",
+      "job": {
+        "title": "Ignition Developer till TechSeed",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7436298-ignition-developer-till-techseed",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Requires Ignition/SCADA/MES-specific expertise the candidate lacks; IIoT platform focus doesn't match their skill set."
+    },
+    {
+      "job_id": "61a8ebcf8a31",
+      "job": {
+        "title": "Utvecklare inom framtidens uppkopplade samhälle till medarbetarägda TechSeed",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7436256-utvecklare-inom-framtidens-uppkopplade-samhalle-till-medarbetaragda-techseed",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Requires hands-on IIoT platform experience (Ignition, Siemens Insights Hub, MQTT) not present in the candidate's profile."
+    },
+    {
+      "job_id": "cc095312ac04",
+      "job": {
+        "title": "IT Business Consultant på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7436221-it-business-consultant-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Business consulting role requiring IoT strategy and PMO experience; too business/management-oriented for an early-career engineer."
+    },
+    {
+      "job_id": "cb9a7696d063",
+      "job": {
+        "title": "Data Governance Specialist på det medarbetarägda konsultbolaget!",
+        "department": "",
+        "location": "",
+        "url": "https://techseed.teamtailor.com/sv/jobs/7381006-data-governance-specialist-pa-det-medarbetaragda-konsultbolaget",
+        "description": "",
+        "company": "TechSeed"
+      },
+      "match": false,
+      "reason": "Data governance is a specialist domain requiring experience in compliance, data management strategy, and governance frameworks the candidate doesn't demonstrate."
+    },
+    {
+      "job_id": "72fa2baf24e7",
+      "job": {
+        "title": "Analytiikkakonsultti",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/analytiikkakonsultti-7703968003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "BI/analytics consulting role in Finland requiring Power BI/Tableau expertise outside the candidate's skill set and location preference."
+    },
+    {
+      "job_id": "d7a02731044b",
+      "job": {
+        "title": "Google Cloud Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/google-cloud-engineer-7702672003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Google Cloud specialization role in Finland; candidate lacks cloud platform depth and prefers Gothenburg."
+    },
+    {
+      "job_id": "683f7cd1a039",
+      "job": {
+        "title": "Cloud Engineer (AWS/Azure)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/cloud-engineer-aws-azure-6001473003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior cloud infrastructure role (Terraform, AWS CDK, CI/CD) in Finland requiring experience beyond the candidate's current level."
+    },
+    {
+      "job_id": "3ad00ff3fbf6",
+      "job": {
+        "title": "Google Workspace Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/google-workspace-engineer-7702572003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Google Workspace/identity management specialist role in Finland with no alignment to the candidate's skills or location."
+    },
+    {
+      "job_id": "8a921402461a",
+      "job": {
+        "title": "Senior Account Executive, Vejle",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-account-executive-vejle-7681767003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Sales/account executive role in Denmark with no relevance to the candidate's technical engineering profile."
+    },
+    {
+      "job_id": "d93e4dea5ddd",
+      "job": {
+        "title": "Data Architect (AI Focus)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-architect-ai-focus-7667359003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior data architect role in Belgium requiring significant architecture and client-facing experience beyond the candidate's level."
+    },
+    {
+      "job_id": "1ce189412baa",
+      "job": {
+        "title": "Data Engineer - AI Focus",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-engineer-ai-focus-7667297003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "AI/ML-focused data engineer role in Belgium is a reasonable skill fit but location doesn't match and requires more senior cloud/MLOps experience."
+    },
+    {
+      "job_id": "5ca3ea3a5fbb",
+      "job": {
+        "title": "Project Lead, Cyber Security",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/project-lead-cyber-security-7569854003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Cybersecurity project lead role in Finland with no alignment to the candidate's skills or location preference."
+    },
+    {
+      "job_id": "4407784c6cfe",
+      "job": {
+        "title": "Lead Architect (Product Development)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/lead-architect-product-development-7687500003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Lead architect role in Finland requiring senior-level cloud architecture experience far beyond the candidate's current level."
+    },
+    {
+      "job_id": "115d3b8ab86c",
+      "job": {
+        "title": "Data Engineer, København",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-engineer-kobenhavn-7574706003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Data engineer role in Copenhagen; reasonable skill fit but location is outside the candidate's stated preference of Gothenburg."
+    },
+    {
+      "job_id": "aa2be2078b41",
+      "job": {
+        "title": "Data Architect – Build the intelligent platforms of tomorrow",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/data-architect-build-the-intelligent-platforms-of-tomorrow-7683472003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior data architect role in Finland requiring technical leadership experience the candidate doesn't yet have."
+    },
+    {
+      "job_id": "bc5b54c20eed",
+      "job": {
+        "title": "Senior Data Engineer (Cloud Data Platforms)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-data-engineer-cloud-data-platforms-7663731003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior data engineer role in Belgium requiring Databricks/Snowflake depth and client-facing seniority beyond the candidate's level."
+    },
+    {
+      "job_id": "b98a81d23c60",
+      "job": {
+        "title": "Senior .NET Developer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-net-developer-5884471003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior .NET developer role in Stockholm; candidate has no .NET background and it targets more experienced engineers."
+    },
+    {
+      "job_id": "69b8758f5355",
+      "job": {
+        "title": "Integration Architect",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/integration-architect-7523781003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Integration architect role requires senior-level architecture leadership and client strategy experience beyond the candidate's early-career stage."
+    },
+    {
+      "job_id": "f42bfb7602f5",
+      "job": {
+        "title": "Senior Data Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-data-engineer-6305401003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Requires senior-level experience and mentoring responsibilities that exceed the candidate's early-career profile."
+    },
+    {
+      "job_id": "3e22cb219dbf",
+      "job": {
+        "title": "Business Intelligence-konsulent",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/business-intelligence-konsulent-7650651003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "BI-focused role in Denmark requiring DAX and dashboard expertise outside the candidate's core skillset and location preference."
+    },
+    {
+      "job_id": "394396a8d491",
+      "job": {
+        "title": "Kokenut Node.js-kehittäjä",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/kokenut-node-js-kehittaja-7628511003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Node.js/TypeScript backend focus in Finland doesn't align with the candidate's Python/AI skill set or location preference."
+    },
+    {
+      "job_id": "8ad1d14cde44",
+      "job": {
+        "title": "Growth Lead (Head of Presales)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/growth-lead-head-of-presales-7616783003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior presales/leadership role in Belgium requiring business development experience far beyond the candidate's level."
+    },
+    {
+      "job_id": "a42c5af68c4e",
+      "job": {
+        "title": "Power Platform -kehittäjä/arkkitehti",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/power-platform-kehittaja-arkkitehti-5914972003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Requires mid-to-senior Power Platform experience in Finland, outside the candidate's skillset and location."
+    },
+    {
+      "job_id": "9af3a92b5632",
+      "job": {
+        "title": "Verksamhetsinriktad Enterprise Architect",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/verksamhetsinriktad-enterprise-architect-7604427003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior enterprise architecture role requiring extensive strategic consulting experience well beyond the candidate's level."
+    },
+    {
+      "job_id": "80c12d22c1b1",
+      "job": {
+        "title": "Senior Software Developer, IoT & Edge",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-software-developer-iot-edge-7589601003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior IoT/edge computing role in Finland; while industrial domain is relevant, the seniority and location don't fit."
+    },
+    {
+      "job_id": "539d4a3917ae",
+      "job": {
+        "title": "Clojure -ohjelmistokehittäjä",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/clojure-ohjelmistokehittaja-7571240003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Clojure full-stack role in Finland is outside the candidate's tech stack and location preference."
+    },
+    {
+      "job_id": "4570eb3fbd64",
+      "job": {
+        "title": "Senior Integration Consultant",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-integration-consultant-6590846003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior integration consulting role requiring MuleSoft/Kafka expertise in Finland, mismatched in seniority and stack."
+    },
+    {
+      "job_id": "c5621f5e28f7",
+      "job": {
+        "title": "Databricks Specialist (Senior Solutions Consultant)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/databricks-specialist-senior-solutions-consultant-7560967003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior Databricks/Spark specialist role in Germany requiring deep platform expertise beyond the candidate's current level."
+    },
+    {
+      "job_id": "acab82696455",
+      "job": {
+        "title": "Kokenut fullstack-ohjelmistokehittäjä",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/kokenut-fullstack-ohjelmistokehittaja-7530115003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Experienced fullstack developer role in Finland with a web-focused stack that doesn't match the candidate's AI/ML profile."
+    },
+    {
+      "job_id": "9ac986d02d3a",
+      "job": {
+        "title": "Lead Developer i Stockholm",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/lead-developer-i-stockholm-6242911003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Lead Developer role requiring senior technical leadership and coaching experience well beyond the candidate's early-career stage."
+    },
+    {
+      "job_id": "27fc1f15d2cf",
+      "job": {
+        "title": "Teknisen tietoturvan asiantuntijoita",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/teknisen-tietoturvan-asiantuntijoita-6583957003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Cybersecurity specialist role in Finland is outside the candidate's domain and location preference."
+    },
+    {
+      "job_id": "fd15a32b301f",
+      "job": {
+        "title": "Hands-on pilviarkkitehti",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/hands-on-pilviarkkitehti-6002994003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior cloud architect role in Finland requiring extensive cloud migration leadership well beyond the candidate's experience."
+    },
+    {
+      "job_id": "a4385016ac56",
+      "job": {
+        "title": "Verkkopalveluihin keskittynyt ohjelmistoarkkitehti",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/verkkopalveluihin-keskittynyt-ohjelmistoarkkitehti-6629092003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Web services software architect role in Finland requiring senior architectural expertise outside the candidate's domain."
+    },
+    {
+      "job_id": "9334631468a0",
+      "job": {
+        "title": "Cloud Architect (Azure Data Platforms)",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/cloud-architect-azure-data-platforms-6545819003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior Azure cloud architect role in Germany requiring deep cloud platform expertise beyond the candidate's current level."
+    },
+    {
+      "job_id": "b0bece76e1aa",
+      "job": {
+        "title": "Ohjelmistoarkkitehti",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/ohjelmistoarkkitehti-6522152003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior software architect role in Finland requiring broad mentoring and architectural leadership beyond an early-career candidate."
+    },
+    {
+      "job_id": "adb3bb3b41f1",
+      "job": {
+        "title": "Open application, Belgium",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/open-application-belgium-4431166003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Open application in Belgium for mid-to-senior roles; location and seniority both misaligned with the candidate's profile."
+    },
+    {
+      "job_id": "c990d382e135",
+      "job": {
+        "title": "Senior Data Scientist",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-data-scientist-4447174003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior Data Scientist role in Sweden requiring advanced ML modelling and industry experience beyond the candidate's current level."
+    },
+    {
+      "job_id": "daa19c2af65a",
+      "job": {
+        "title": "Uopfordrede ansøgninger Danmark",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/uopfordrede-ansogninger-danmark-4906465003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Open call in Denmark, outside preferred location, and targets more senior profiles across unrelated roles."
+    },
+    {
+      "job_id": "f42bfb7602f5",
+      "job": {
+        "title": "Senior Data Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/senior-data-engineer-5786318003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Senior-level role in Norway requiring significant experience beyond the candidate's early-career stage."
+    },
+    {
+      "job_id": "e5a83ff610f8",
+      "job": {
+        "title": "Open application, Germany",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/open-application-germany-5669142003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Open application in Germany, outside preferred location, and most listed roles don't align well with the candidate's core skills."
+    },
+    {
+      "job_id": "2782096ee83d",
+      "job": {
+        "title": "Open application, Finland",
+        "department": "",
+        "location": "",
+        "url": "https://www.solita.fi/positions/open-application-finland-5727821003/",
+        "description": "",
+        "company": "Solita"
+      },
+      "match": false,
+      "reason": "Open application in Finland; Data Engineer sub-role is relevant but location is outside the candidate's preference."
+    },
+    {
+      "job_id": "fbf85d60085e",
+      "job": {
+        "title": "C/C++ utvecklare mot säkerhetskritiska system",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/7508698-c-c-utvecklare-mot-sakerhetskritiska-system",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "Requires deep embedded/defense-focused C/C++ expertise and likely significant seniority the candidate doesn't yet have."
+    },
+    {
+      "job_id": "f197f25e6ba1",
+      "job": {
+        "title": "Devops/Platform Engineer inom Försvarsindustrin",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/7581385-devops-platform-engineer-inom-forsvarsindustrin",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "Defense-focused DevOps role requiring experienced infrastructure and security-critical systems background beyond the candidate's profile."
+    },
+    {
+      "job_id": "762cb4b6d587",
+      "job": {
+        "title": "Platform Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/7580834-platform-engineer",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "Platform Engineer role in Stockholm (not preferred location) requiring strong Linux/DevOps infrastructure experience not central to the candidate's background."
+    },
+    {
+      "job_id": "2021b347dc63",
+      "job": {
+        "title": "Projektledare inom industri",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/5884156-projektledare-inom-industri",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "Project management and industrialization role with no alignment to the candidate's technical AI/ML or engineering skills."
+    },
+    {
+      "job_id": "323fdf99a782",
+      "job": {
+        "title": "GRC Cyber Security Consultant",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/5366461-grc-cyber-security-consultant",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "GRC cybersecurity role with no overlap with the candidate's skills or target domains."
+    },
+    {
+      "job_id": "33f8b47ae981",
+      "job": {
+        "title": "Cybersecurity consultant",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/5202905-cybersecurity-consultant",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "Cybersecurity consultant role requiring security-focused development expertise outside the candidate's skillset."
+    },
+    {
+      "job_id": "c3d4befcd8f7",
+      "job": {
+        "title": "Projektledare inom Digital Transformation",
+        "department": "",
+        "location": "",
+        "url": "https://career.hiq.se/sv/jobs/3898951-projektledare-inom-digital-transformation",
+        "description": "",
+        "company": "HiQ"
+      },
+      "match": false,
+      "reason": "Digital transformation project management role with no match to the candidate's technical or domain background."
+    },
+    {
+      "job_id": "1487810a2f87",
+      "job": {
+        "title": "Sales Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://careers.juni.co/jobs/7105407-sales-development-representative",
+        "description": "",
+        "company": "Juni"
+      },
+      "match": false,
+      "reason": "Sales development role with no relevance to the candidate's engineering and AI background."
+    },
+    {
+      "job_id": "9acb88a0a419",
+      "job": {
+        "title": "German Speaking Sales Development Representative",
+        "department": "",
+        "location": "",
+        "url": "https://careers.sendify.se/jobs/6738552-german-speaking-sales-development-representative",
+        "description": "",
+        "company": "Sendify"
+      },
+      "match": false,
+      "reason": "German-speaking sales role with no alignment to the candidate's technical profile."
+    },
+    {
+      "job_id": "23b6a718b05c",
+      "job": {
+        "title": "German Speaking Sales Executive",
+        "department": "",
+        "location": "",
+        "url": "https://careers.sendify.se/jobs/5791997-german-speaking-sales-executive",
+        "description": "",
+        "company": "Sendify"
+      },
+      "match": false,
+      "reason": "Sales executive role requiring sales experience and German language skills, irrelevant to the candidate's background."
+    },
+    {
+      "job_id": "4a4edeb1a998",
+      "job": {
+        "title": "Global Marketing Automation Strategy",
+        "department": "",
+        "location": "",
+        "url": "",
+        "description": "",
+        "company": "Embedl"
+      },
+      "match": false,
+      "reason": "Marketing automation strategy role with no job description and misaligned with the candidate's technical engineering focus."
+    },
+    {
+      "job_id": "af6437cb4b92",
+      "job": {
+        "title": "Account Executive – Public Sector Sales",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/bc3621b9-85d2-49b0-a0ab-4d18055e10a5",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Public sector sales role in Texas with no relevance to the candidate's skills or location preference."
+    },
+    {
+      "job_id": "afa75d62b067",
+      "job": {
+        "title": "Customer Account Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/e3189853-c7a2-4900-a467-62a7e5bd9904",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Customer account/success role in the US with no alignment to the candidate's technical background."
+    },
+    {
+      "job_id": "afa75d62b067",
+      "job": {
+        "title": "Customer Account Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/f9e32f60-8897-47a0-9254-2b0961ae9ca5",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Customer account specialist role in Canada focused on licensing and CRM, not relevant to the candidate's engineering skills."
+    },
+    {
+      "job_id": "f46c63a667de",
+      "job": {
+        "title": "Customer Success Manager – Canada – French required",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/42172f07-04b2-4081-ac59-0dc32c88fa54",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior customer success manager role in Canada requiring executive relationship management, entirely outside the candidate's profile."
+    },
+    {
+      "job_id": "7fe74ca865c7",
+      "job": {
+        "title": "Customer Success Manager – United Kingdom",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/5553155c-91aa-401b-86d0-8cc5db6a5eeb",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior customer success manager role in London with no technical or domain alignment to the candidate."
+    },
+    {
+      "job_id": "ecba38761e5e",
+      "job": {
+        "title": "Data Architect (Distributed Systems Engineering)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/793533fc-3648-46fb-bff1-7bbe3cde0ac6",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior data architect role in Canada requiring extensive distributed systems architecture experience well beyond the candidate's level."
+    },
+    {
+      "job_id": "ecba38761e5e",
+      "job": {
+        "title": "Data Architect (Distributed Systems Engineering)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/a0d6caec-6eab-491f-92b6-1e128d14b7b2",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior data architect role in the US with no description and assumed seniority mismatch."
+    },
+    {
+      "job_id": "5ac3cc294f4c",
+      "job": {
+        "title": "Director, Product Marketing SaaS Solutions",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/2cad140b-b4c3-4628-acb8-7028865fd7da",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior marketing leadership role with no relevance to the candidate's engineering, AI, or robotics background."
+    },
+    {
+      "job_id": "7b1431b21f29",
+      "job": {
+        "title": "Enterprise Account Director – Americas, Sales",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/ee807895-791e-4338-b73a-38ea546bce17",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Enterprise sales role in the US requiring extensive B2B sales experience, unrelated to the candidate's technical profile."
+    },
+    {
+      "job_id": "b2a7cfd1a441",
+      "job": {
+        "title": "Enterprise Account Executive – APAC",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/f5172ec8-c63a-476c-a762-b30489c1703e",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "APAC sales role requiring proven enterprise sales track record, not aligned with the candidate's engineering background."
+    },
+    {
+      "job_id": "19be07cc46e8",
+      "job": {
+        "title": "Enterprise Account Executive – LATAM",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/7d14ecb3-5f96-4e20-8c9b-24c38c9e5f3c",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "LATAM enterprise sales role with no alignment to the candidate's technical skills or target roles."
+    },
+    {
+      "job_id": "5f230af133e3",
+      "job": {
+        "title": "Enterprise Account Executive (DACH)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/f24708c7-18b0-4838-b2d4-8f4598b96f73",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Enterprise sales role for the DACH region, entirely outside the candidate's engineering and AI domain."
+    },
+    {
+      "job_id": "90eecb3f9b28",
+      "job": {
+        "title": "Forensics Trainer",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/1d7330a9-162a-459f-ad9e-5b97f074dcbd",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Forensics training role in the UK requiring domain expertise in digital forensics, not relevant to the candidate's background."
+    },
+    {
+      "job_id": "90eecb3f9b28",
+      "job": {
+        "title": "Forensics Trainer",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/240a6197-9708-4269-9f65-3e97a7f43482",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Forensics training role in Australia with no alignment to the candidate's skills or location preference."
+    },
+    {
+      "job_id": "67889e94053b",
+      "job": {
+        "title": "Front-End Architect",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/2b96fb28-049c-40fb-9917-b407dab7fb56",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior front-end architecture role in Canada requiring deep UI/frontend expertise, outside the candidate's skill set."
+    },
+    {
+      "job_id": "67889e94053b",
+      "job": {
+        "title": "Front-End Architect",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/e0aafcd1-580f-43bf-9f2b-aa23a0a677eb",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Front-end architect role in the US requiring senior frontend leadership experience, not matching the candidate's profile."
+    },
+    {
+      "job_id": "d33af0273485",
+      "job": {
+        "title": "Griffeye UX Designer",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/a95575f6-6325-4a4d-b322-3f706ebfe3e3",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "UX Designer role in Gothenburg, but the candidate has no UX design skills or experience."
+    },
+    {
+      "job_id": "c9b50099cb83",
+      "job": {
+        "title": "Hardware Operations Specialist",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/58e5e093-6b7a-475e-b1fe-fcef7cccfcd8",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Hardware operations and logistics role in Atlanta with no relevance to the candidate's software/AI skill set."
+    },
+    {
+      "job_id": "a98e9745db7f",
+      "job": {
+        "title": "I Want to Work in Vulnerability Research & Exploit Engineering",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/1c4a6264-1904-4191-a0a2-96c5dc5c07e8",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "iOS/Android vulnerability research and exploit engineering role requiring specialized security expertise the candidate lacks."
+    },
+    {
+      "job_id": "b6d19638ab3e",
+      "job": {
+        "title": "Join Our Talent Pipeline!",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/18f6d866-36cb-43d2-8312-9bc28454db96",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Generic talent pipeline with no specific technical alignment; not a sensible targeted application for this candidate."
+    },
+    {
+      "job_id": "341af5aa5306",
+      "job": {
+        "title": "Manager of Business Development (Public Safety – EMEA & APAC)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/fb9dc4e1-24a0-4bac-bb55-1a078abffa6b",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Sales team management role in Germany with no connection to the candidate's engineering or AI expertise."
+    },
+    {
+      "job_id": "eb79953a247d",
+      "job": {
+        "title": "Marketing Manager, Public Sector",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/150609b0-9698-4a73-8009-50832fb3ed80",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Public sector marketing manager role with no relevance to the candidate's technical background."
+    },
+    {
+      "job_id": "f16a62325516",
+      "job": {
+        "title": "Platform Consultant",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/3347193d-63cd-4eed-9911-ab6931675fe9",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Platform sales consultant role focused on sales strategy, not aligned with the candidate's engineering profile."
+    },
+    {
+      "job_id": "d815a622f332",
+      "job": {
+        "title": "Procurement Operations Lead",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/f8738a9a-331e-4bc1-95d3-999775e55d67",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Procurement operations role unrelated to the candidate's AI, ML, or robotics engineering skills."
+    },
+    {
+      "job_id": "337dff3dd6f0",
+      "job": {
+        "title": "Product Management Lead",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/7aba76c3-84b8-4edc-956e-0e7e48f46056",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior product management leadership role requiring deep DFIR domain and product strategy experience the candidate lacks."
+    },
+    {
+      "job_id": "d6c42642304e",
+      "job": {
+        "title": "Sales Development Representative (Bilingual – Portuguese)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/ce7ab218-9cc1-4ab7-a88a-a892ba312141",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Sales development role focused on prospecting and CRM, entirely outside the candidate's technical engineering domain."
+    },
+    {
+      "job_id": "18ae90f71060",
+      "job": {
+        "title": "Sales Development Representative (EMEA)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/e795c33a-f383-412c-a69e-0e6ff46e51b4",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "EMEA sales development role in the UK requiring sales skills, not relevant to the candidate's engineering background."
+    },
+    {
+      "job_id": "18ae90f71060",
+      "job": {
+        "title": "Sales Development Representative (EMEA)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/ecbba470-20da-4773-85fb-7186a1735888",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Sales development role in Germany with no alignment to the candidate's AI/ML or robotics engineering skills."
+    },
+    {
+      "job_id": "033ddca661fb",
+      "job": {
+        "title": "Senior Customer Delivery Specialist – West Coast (United States)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/66f99f0f-ae62-43f5-9bd3-9e164ac4b529",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior customer onboarding specialist role in the US focused on forensics software delivery, not matching the candidate's profile."
+    },
+    {
+      "job_id": "c7eac7f91e41",
+      "job": {
+        "title": "Senior Machine Learning Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/5f1b5b1e-145a-4ada-9da1-053abd7f70d0",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior ML Engineer role in Canada requiring significant industry seniority beyond the candidate's current early-career level."
+    },
+    {
+      "job_id": "7e362ccff26c",
+      "job": {
+        "title": "Senior Product Manager, Hardware",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/7eb83147-2ff7-4ee0-a821-c6070a30cad4",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior hardware product management role requiring product strategy and hardware domain expertise the candidate does not have."
+    },
+    {
+      "job_id": "8cd7a554b0c0",
+      "job": {
+        "title": "Senior Software Development Engineer in Test (Magnet-Griffeye)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/0c9b468c-c9cc-4960-8d0d-958c02b9c515",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Requires senior-level leadership and test strategy experience well beyond the candidate's early-career stage."
+    },
+    {
+      "job_id": "e00c307f11e4",
+      "job": {
+        "title": "Senior Software Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/75b8eaac-4e8a-4b21-b971-1cc59ca4465a",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior SWE role based in the US with no alignment to AI/ML or robotics domains, and seniority far exceeds the candidate's level."
+    },
+    {
+      "job_id": "ef4495f5a5d6",
+      "job": {
+        "title": "Senior Software Engineer – Frontend (React)",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/b528e032-571b-4217-9490-001313e66399",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Senior frontend React/TypeScript role with no overlap with the candidate's skills or target domains."
+    },
+    {
+      "job_id": "83e5c52fc7f9",
+      "job": {
+        "title": "Senior Technical Delivery Specialist – United Kingdom",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/177ec257-56e3-4faa-8b05-b9a2d1b33c7b",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Customer-facing senior delivery role in the UK with no relevance to the candidate's technical profile or location preference."
+    },
+    {
+      "job_id": "843841563cdd",
+      "job": {
+        "title": "Vulnerability Researcher",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/0c7c5eb2-f0fc-4327-a038-f56de3fcc218",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Cybersecurity/vulnerability research role in the US with no alignment to the candidate's skills or domains."
+    },
+    {
+      "job_id": "843841563cdd",
+      "job": {
+        "title": "Vulnerability Researcher",
+        "department": "",
+        "location": "",
+        "url": "https://jobs.lever.co/magnetforensics/88365952-25db-48a5-95c0-cdb9e3efe55e",
+        "description": "",
+        "company": "Magnet Forensics"
+      },
+      "match": false,
+      "reason": "Cybersecurity vulnerability research role in the UK outside the candidate's domain and location preferences."
+    },
+    {
+      "job_id": "bb45bc331cdb",
+      "job": {
+        "title": "Embedded Developer",
+        "department": "",
+        "location": "",
+        "url": "https://www.merphi.se/embedded-developer/",
+        "description": "",
+        "company": "Merphi"
+      },
+      "match": false,
+      "reason": "Requires 3+ years of embedded development experience which the candidate lacks, and the focus on actuator control is outside their core skill set."
+    },
+    {
+      "job_id": "d33b627ca940",
+      "job": {
+        "title": "Backend Developer C# / .NET",
+        "department": "",
+        "location": "",
+        "url": "https://www.merphi.se/backend-developer-c-net-senior/",
+        "description": "",
+        "company": "Merphi"
+      },
+      "match": false,
+      "reason": "Senior .NET/C# full-stack role with no alignment to the candidate's Python/AI/ML-focused skill set."
+    },
+    {
+      "job_id": "95c761254948",
+      "job": {
+        "title": "Group Design Leader",
+        "department": "",
+        "location": "",
+        "url": "https://www.merphi.se/senior-group-design-leader/",
+        "description": "",
+        "company": "Merphi"
+      },
+      "match": false,
+      "reason": "Senior design leadership role requiring team management experience well beyond the candidate's level."
+    },
+    {
+      "job_id": "6a25f511e6fe",
+      "job": {
+        "title": "Accounting Manager",
+        "department": "",
+        "location": "",
+        "url": "https://career.irisity.com/jobs/7406668-accounting-manager",
+        "description": "",
+        "company": "Irisity"
+      },
+      "match": false,
+      "reason": "Accounting/finance role with no relevance to the candidate's technical profile."
+    },
+    {
+      "job_id": "d209e36616bf",
+      "job": {
+        "title": "Senior Hardware Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://needo.se/lediga-jobb/senior-hardware-engineer-to-flexqube/",
+        "description": "",
+        "company": "FlexQube"
+      },
+      "match": false,
+      "reason": "Hardware engineering role with unknown description, but likely outside the candidate's software/AI skill set."
+    },
+    {
+      "job_id": "dcc3895a61c2",
+      "job": {
+        "title": "Delivery Lead",
+        "department": "",
+        "location": "",
+        "url": "https://www.algorithma.ai/careers/delivery-lead",
+        "description": "",
+        "company": "Algorithma"
+      },
+      "match": false,
+      "reason": "Senior AI Delivery Lead in Stockholm requires project leadership and client-facing seniority the candidate has not yet developed."
+    },
+    {
+      "job_id": "fcdea4fee28e",
+      "job": {
+        "title": "AgentOps & Cloud Engineer",
+        "department": "",
+        "location": "",
+        "url": "https://www.algorithma.ai/careers/agentops-cloud-engineer",
+        "description": "",
+        "company": "Algorithma"
+      },
+      "match": false,
+      "reason": "Cloud/AgentOps infrastructure role in Stockholm requires DevOps and cloud platform expertise not evidenced in the candidate's profile."
+    }
+  ]
+}
